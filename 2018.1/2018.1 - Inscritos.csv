@@ -1,0 +1,366 @@
+Carimbo de data/hora;ID;Selecionado;Gênero;Qual a sua escola / faculdade / instituto?;Qual o seu curso / programa de pós?;Em que ano você está?;Você já participou de quantos hackathons?;Qual a sua especialidade?;Você já tem equipe formada?;Se sim, conte-nos quem são:;Time
+16/05/2018 16:06:10;296;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;2;Desenvolvedor;Sim;45, 54, 281, 296;59
+16/05/2018 18:47:09;290;S;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;4° ano;0;Cientista de Dados;Sim;290, 208;33
+16/05/2018 18:47:13;338;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4° ano;2;Cientista de Dados;Sim;60, 178, 248, 338;67
+16/05/2018 18:48:34;208;S;F;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;4° ano;0;Desenvolvedor;Não;208, 290;33
+16/05/2018 18:48:51;252;S;M;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;1;Cientista de Dados;Sim;88, 179, 252, 262;75
+16/05/2018 18:49:15;78;S;F;Escola Politécnica (Poli);Engenharia Elétrica;4° ano;1;Cientista de Dados;Sim;25, 72, 78, 132;41
+16/05/2018 18:51:37;198;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4° ano;2;Desenvolvedor;Sim;60, 178, 198, 338;67
+16/05/2018 18:52:32;132;S;M;Escola Politécnica (Poli);Engenharia da Computação;5° ano ou mais;2;Cientista de Dados;Sim;25, 72, 78, 132;41
+16/05/2018 18:53:27;364;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;1;Desenvolvedor;Sim;106, 364, 311, 347;5
+16/05/2018 18:53:30;248;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5° ano ou mais;0;Desenvolvedor;Sim;60, 178, 248, 338;67
+16/05/2018 18:53:39;25;S;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;2° ano;2;Negócios;Sim;25, 72, 78, 132;41
+16/05/2018 18:54:01;155;N;M;Instituto de Física (IF);Bacharelado em Física;2° ano;0;Desenvolvedor;Sim;155, 257, 314, 329;22
+16/05/2018 18:55:12;74;S;F;Escola Politécnica (Poli);Engenharia Elétrica;4° ano;2;Designer;Sim;30, 74, 82, 317;46
+16/05/2018 18:55:32;283;S;M;Escola Politécnica (Poli);Engenharia da Computação;3° ano;1;Cientista de Dados;Sim;41, 225, 283, 297;56
+16/05/2018 18:55:59;82;S;M;Escola Politécnica (Poli);Engenharia Elétrica;4° ano;1;Desenvolvedor;Sim;30, 74, 82, 317;46
+16/05/2018 18:56:19;317;S;M;Escola Politécnica (Poli);Curso de Ciências Moleculares;3° ano;2;Cientista de Dados;Sim;30, 74, 82, 317;46
+16/05/2018 18:56:38;30;S;M;Instituto de Física (IF);Pós-graduação em Física;Pós-graduação;1;Cientista de Dados;Sim;30, 74, 82, 317;46
+16/05/2018 18:56:39;117;S;M;Escola Politécnica (Poli);Engenharia Elétrica;2° ano;0;Desenvolvedor;Sim;117, 126, 176, 288;9
+16/05/2018 18:56:41;41;S;F;Escola Politécnica (Poli);Engenharia Elétrica;2° ano;0;Desenvolvedor;Sim;41, 225, 297;56
+16/05/2018 18:58:14;88;S;M;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;0;Designer;Sim;88, 179, 252, 262;75
+16/05/2018 18:58:44;297;S;M;Escola Politécnica (Poli);Engenharia Elétrica;3° ano;2;Desenvolvedor;Sim;41, 225, 283, 297;56
+16/05/2018 19:00:43;346;S;M;Escola Politécnica (Poli);Engenharia Elétrica;3° ano;0;Desenvolvedor;Não;;0
+16/05/2018 19:00:53;225;S;M;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;2;Desenvolvedor;Sim;41, 225, 283, 297;56
+16/05/2018 19:01:54;327;S;M;Escola Politécnica (Poli);Pós-graduação em Engenharia da Computação;Pós-graduação;0;Desenvolvedor;Sim;306, 327, 350;47
+16/05/2018 19:01:56;9;S;F;Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH);Linguística;5° ano ou mais;0;Desenvolvedor;Sim;1, 9, 20, 221;1
+16/05/2018 19:02:20;275;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;1;Desenvolvedor;Sim;214, 275, 304;35
+16/05/2018 19:02:56;262;S;M;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;0;Negócios;Sim;88, 179, 252, 262;75
+16/05/2018 19:02:57;89;N;M;Escola Politécnica (Poli);Engenharia da Computação;3° ano;1;Desenvolvedor;Sim;89, 96 217;76
+16/05/2018 19:03:20;12;S;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;0;Desenvolvedor;Sim;12, 75, 228, 245;12
+16/05/2018 19:03:20;229;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;1;Desenvolvedor;Não;;0
+16/05/2018 19:03:28;4;S;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Negócios;Não;;0
+16/05/2018 19:03:36;22;S;F;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;0;Desenvolvedor;Sim;22, 99, 318;36
+16/05/2018 19:03:36;179;S;M;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;1;Desenvolvedor;Sim;88, 179, 252, 262;75
+16/05/2018 19:03:48;51;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Estatística;3° ano;0;Cientista de Dados;Sim;51, 149, 76;63
+16/05/2018 19:03:49;61;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;0;Desenvolvedor;Não;61, 108, 331;68
+16/05/2018 19:03:52;114;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;4° ano;1;Desenvolvedor;Sim;114, 192, 310, 349;7
+16/05/2018 19:03:58;222;S;M;Escola de Comunicações e Artes (ECA);Publicidade e Propaganda;1° ano;0;Designer;Não;;0
+16/05/2018 19:04:00;176;S;M;Escola Politécnica (Poli);Engenharia Elétrica;2° ano;0;Desenvolvedor;Sim;117, 126, 176, 288;9
+16/05/2018 19:05:00;76;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Estatística;2° ano;0;Cientista de Dados;Sim;51, 149, 76;63
+16/05/2018 19:05:10;357;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;1;Desenvolvedor;Sim;64, 131, 357, 358;70
+16/05/2018 19:05:17;220;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;2;Cientista de Dados;Não;;0
+16/05/2018 19:05:18;258;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+16/05/2018 19:05:23;217;N;M;Escola Politécnica (Poli);Engenharia da Computação;3° ano;0;Cientista de Dados;Sim;89, 96 217;76
+16/05/2018 19:05:35;257;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;1;Desenvolvedor;Sim;155, 257, 314, 329;22
+16/05/2018 19:05:43;270;S;M;Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH);Ciências Sociais;4° ano;0;Cientista de Dados;Sim;10, 270, 299, 323;2
+16/05/2018 19:05:47;245;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;0;Desenvolvedor;Sim;12, 75, 228, 245;12
+16/05/2018 19:06:25;244;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4° ano;2;Desenvolvedor;Não;;0
+16/05/2018 19:06:29;64;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Sim;64, 131, 357, 358;70
+16/05/2018 19:06:33;149;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Estatística;2° ano;2;Cientista de Dados;Sim;51, 149, 76;63
+16/05/2018 19:06:58;161;S;M;Instituto de Matemática e Estatística (IME);Curso de Ciências Moleculares;3° ano;0;Cientista de Dados;Sim;50, 109, 161, 334;62
+16/05/2018 19:07:36;20;S;F;Escola Politécnica (Poli);Engenharia Elétrica;2° ano;1;Designer;Sim;1, 9, 20, 221;1
+16/05/2018 19:08:22;13;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;2;Desenvolvedor;Não;;0
+16/05/2018 19:08:27;152;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+16/05/2018 19:08:32;99;S;M;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Econômicas;4° ano;0;Negócios;Sim;22, 99, 318;36
+16/05/2018 19:08:36;126;S;M;Escola Politécnica (Poli);Engenharia Elétrica;1° ano;0;Desenvolvedor;Sim;117, 126, 176, 288;9
+16/05/2018 19:08:47;204;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;1;Cientista de Dados;Sim;3, 33, 191, 204;45
+16/05/2018 19:09:38;310;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Estatística;3° ano;1;Cientista de Dados;Sim;114, 192, 310, 349;7
+16/05/2018 19:09:43;240;N;M;Escola Politécnica (Poli);Engenharia Elétrica;2° ano;1;Desenvolvedor;Sim;23, 240, 307, 320;38
+16/05/2018 19:10:57;28;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;26, 28;43
+16/05/2018 19:11:18;10;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Estatística;5° ano ou mais;0;Cientista de Dados;Sim;10, 270, 299, 323;2
+16/05/2018 19:11:34;304;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;1;Desenvolvedor;Sim;214, 275, 304;35
+16/05/2018 19:11:36;214;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;214, 275, 304;35
+16/05/2018 19:12:54;75;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;1;Negócios;Sim;12, 75, 228, 245;12
+16/05/2018 19:13:04;349;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;4° ano;0;Cientista de Dados;Sim;114, 192, 310, 349;7
+16/05/2018 19:13:16;33;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;1;Desenvolvedor;Sim;3, 33, 191, 204;45
+16/05/2018 19:14:09;288;S;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;2° ano;0;Cientista de Dados;Sim;117, 126, 176, 288;9
+16/05/2018 19:15:24;192;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;4° ano;0;Cientista de Dados;Sim;114, 192, 310, 349;7
+16/05/2018 19:16:57;251;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;1° ano;0;Desenvolvedor;Sim;158, 251;23
+16/05/2018 19:17:37;249;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4° ano;1;Desenvolvedor;Sim;227, 249, 261, 312;37
+16/05/2018 19:17:53;261;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4° ano;1;Desenvolvedor;Sim;227, 249, 261, 312;37
+16/05/2018 19:18:16;216;N;M;Escola Politécnica (Poli);Engenharia da Computação;3° ano;1;Cientista de Dados;Não;111, 216, 284;6
+16/05/2018 19:18:29;23;N;M;Escola Politécnica (Poli);Engenharia da Computação;2° ano;1;Desenvolvedor;Sim;23, 240, 307, 320;38
+16/05/2018 19:18:30;320;N;F;Escola Politécnica (Poli);Engenharia da Computação;2° ano;1;Desenvolvedor;Sim;23, 240, 307, 320;38
+16/05/2018 19:19:27;227;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4° ano;1;Desenvolvedor;Sim;227, 249, 261, 312;37
+16/05/2018 19:19:29;314;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3° ano;0;Desenvolvedor;Sim;155, 257, 314, 329;22
+16/05/2018 19:20:12;46;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Não;;0
+16/05/2018 19:20:22;158;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;2° ano;0;Desenvolvedor;Sim;158, 251;23
+16/05/2018 19:20:30;358;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Sim;64, 131, 357, 358;70
+16/05/2018 19:22:55;329;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;0;Desenvolvedor;Sim;155, 257, 314, 329;22
+16/05/2018 19:23:32;337;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;1;Desenvolvedor;Não;;0
+16/05/2018 19:24:08;221;S;M;Escola Politécnica (Poli);Engenharia Elétrica;2° ano;0;Desenvolvedor;Sim;1, 9, 20, 221;1
+16/05/2018 19:26:30;334;S;M;Instituto de Física (IF);Curso de Ciências Moleculares;3° ano;0;Cientista de Dados;Sim;50, 109, 161, 334;62
+16/05/2018 19:28:06;326;S;F;Escola de Comunicações e Artes (ECA);Publicidade e Propaganda;5° ano ou mais;0;Designer;Não;;0
+16/05/2018 19:28:25;50;S;M;Escola Politécnica (Poli);Curso de Ciências Moleculares;3° ano;0;Cientista de Dados;Sim;50, 109, 161, 334;62
+16/05/2018 19:30:14;70;N;M;Instituto de Ciências Biomédicas (ICB);Ciencias Biomédicas ;2° ano;0;Nenhuma;Não;;0
+16/05/2018 19:30:42;124;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;3° ano;0;Desenvolvedor;Não;;0
+16/05/2018 19:31:10;85;N;M;Escola Politécnica (Poli);Engenharia Elétrica;2° ano;0;Cientista de Dados;Não;;0
+16/05/2018 19:31:11;202;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Administração;3° ano;0;Negócios;Não;;0
+16/05/2018 19:31:59;223;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;2° ano;0;Cientista de Dados;Não;;0
+16/05/2018 19:32:41;96;N;M;Escola Politécnica (Poli);Engenharia da Computação;3° ano;0;Desenvolvedor;Sim;89, 96 217;76
+16/05/2018 19:32:54;164;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4° ano;2;Desenvolvedor;Sim;62, 164, 272, 236;69
+16/05/2018 19:34:18;236;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4° ano;0;Desenvolvedor;Sim;62, 164, 236, 272;69
+16/05/2018 19:35:26;325;N;F;Faculdade de Ciências Farmacêuticas (FCF);Farmácia-Bioquímica;5° ano ou mais;0;Negócios;Não;;0
+16/05/2018 19:37:11;284;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;2° ano;2;Desenvolvedor;Sim;111, 216, 284;6
+16/05/2018 19:37:50;72;S;F;Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH);Letras;5° ano ou mais;0;Desenvolvedor;Sim;25, 72, 78, 132;41
+16/05/2018 19:38:25;113;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Não;;0
+16/05/2018 19:39:41;268;N;F;Escola Politécnica (Poli);Engenharia da Computação;4° ano;2;Desenvolvedor;Sim;52, 56, 254, 268;64
+16/05/2018 19:41:54;111;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;3° ano;0;Cientista de Dados;Sim;111, 216, 284;6
+16/05/2018 19:42:10;148;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;0;Desenvolvedor;Sim;148, 173, 184;18
+16/05/2018 19:42:59;312;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4° ano;1;Cientista de Dados;Sim;227, 249, 261, 312;37
+16/05/2018 19:43:17;281;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;2;Desenvolvedor;Sim;45, 54, 281, 296;59
+16/05/2018 19:43:20;97;N;M;Instituto de Física (IF);Bacharelado em Física;4° ano;1;Desenvolvedor;Sim;84, 97;73
+16/05/2018 19:44:13;143;N;F;Escola Politécnica (Poli);Engenharia Elétrica;3° ano;0;Desenvolvedor;Sim;37, 87, 143, 289;52
+16/05/2018 19:44:28;60;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5° ano ou mais;1;Cientista de Dados;Sim;60, 178, 248, 338;67
+16/05/2018 19:44:57;318;S;M;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;2;Cientista de Dados;Sim;22, 99, 318;36
+16/05/2018 19:46:34;44;N;F;Escola de Engenharia de São Carlos (EESC);Engenharia da Computação;2° ano;2;Desenvolvedor;Não;;0
+16/05/2018 19:46:58;106;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Sim;106, 364, 311, 347;5
+16/05/2018 19:47:17;79;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+16/05/2018 19:47:29;173;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;1;Desenvolvedor;Sim;148, 173, 184;18
+16/05/2018 19:48:25;62;N;M;Escola Politécnica (Poli);Engenharia Elétrica;3° ano;0;Designer;Sim;62, 164, 272, 236;69
+16/05/2018 19:48:43;184;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;0;Desenvolvedor;Sim;148, 173, 184;18
+16/05/2018 19:51:07;87;N;M;Escola Politécnica (Poli);Engenharia Elétrica;4° ano;2;Cientista de Dados;Sim;;0
+16/05/2018 19:53:57;167;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Administração ;2° ano;0;Negócios;Sim;167, 207;25
+16/05/2018 19:55:09;264;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Cientista de Dados;Sim;;0
+16/05/2018 19:56:16;207;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Administração;2° ano;0;Negócios;Sim;167, 207;25
+16/05/2018 19:58:34;133;N;M;Escola Politécnica (Poli);Engenharia da Computação;2° ano;0;Desenvolvedor;Sim;35, 133, 303, 356;50
+16/05/2018 20:07:55;159;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Negócios;Não;;0
+16/05/2018 20:09:43;295;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;1;Desenvolvedor;Não;;0
+16/05/2018 20:10:04;218;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;0;Desenvolvedor;Não;;0
+16/05/2018 20:10:05;27;N;M;Instituto de Física (IF);Bacharelado em Física;2° ano;1;Cientista de Dados;Não;;0
+16/05/2018 20:11:20;108;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;0;Cientista de Dados;Não;61, 108, 331;68
+16/05/2018 20:12:52;183;N;F;Escola de Artes, Ciências e Humanidades (EACH);Marketing;4° ano;0;Negócios;Sim;;0
+16/05/2018 20:13:42;1;S;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;5° ano ou mais;5;Cientista de Dados;Sim;1, 9, 20, 221;1
+16/05/2018 20:15:00;73;N;F;Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG);Geofísica;5° ano ou mais;0;Negócios;Não;;0
+16/05/2018 20:17:27;254;N;M;Escola Politécnica (Poli);Engenharia da Computação;4° ano;0;Desenvolvedor;Sim;52, 56, 254, 268;64
+16/05/2018 20:17:33;52;N;M;Escola Politécnica (Poli);Engenharia da Computação;4° ano;1;Desenvolvedor;Sim;52, 56, 254, 268;64
+16/05/2018 20:21:25;34;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Não;;0
+16/05/2018 20:22:14;56;N;M;Escola Politécnica (Poli);Engenharia da Computação;4° ano;2;Cientista de Dados;Sim;52, 56, 254, 268;64
+16/05/2018 20:22:54;123;N;F;Escola Politécnica (Poli);Engenharia Ambiental;2° ano;0;Desenvolvedor;Sim;123, 194, 231;13
+16/05/2018 20:25:52;272;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4° ano;0;Desenvolvedor;Sim;62, 164, 236, 272;69
+16/05/2018 20:28:30;188;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;188, 214, 304, 365;29
+16/05/2018 20:30:53;170;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5° ano ou mais;1;Desenvolvedor;Não;;0
+16/05/2018 20:33:03;144;N;F;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;2° ano;0;Cientista de Dados;Sim;260, 277, 160, 141, 352, 144, 90;44
+16/05/2018 20:34:56;37;N;F;Escola Politécnica (Poli);Engenharia Elétrica;4° ano;0;Desenvolvedor;Sim;37, 87, 289, 143;52
+16/05/2018 20:36:48;101;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3° ano;1;Negócios;Sim;101, 315, 322, 362;3
+16/05/2018 20:38:40;279;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Pura;2° ano;0;Designer;Não;;0
+16/05/2018 20:42:16;293;N;M;Instituto de Matemática e Estatística (IME);;5° ano ou mais;0;Desenvolvedor;Não;;0
+16/05/2018 20:44:01;315;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Sim;101, 315, 322, 362;3
+16/05/2018 20:44:49;147;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;147, 211;17
+16/05/2018 20:46:41;194;N;F;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;1;Cientista de Dados;Sim;123, 194, 231;13
+16/05/2018 20:46:52;289;N;F;Escola Politécnica (Poli);Engenharia Elétrica;4° ano;0;Negócios;Sim;37, 87, 289, 143;52
+16/05/2018 20:55:13;135;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;1;Desenvolvedor;Sim;5, 165, 300, 135;61
+16/05/2018 20:55:23;210;N;F;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Sistemas de Informação;2° ano;1;Desenvolvedor;Não;;0
+16/05/2018 20:55:32;321;N;M;Instituto de Física (IF);Pós-graduação em Tecnologia Nuclear ;Pós-graduação;0;Desenvolvedor;Não;;0
+16/05/2018 20:55:48;322;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Designer;Sim;101, 315, 322, 362;3
+16/05/2018 20:57:03;140;N;F;Escola Politécnica (Poli);Engenharia da Computação;2° ano;0;Desenvolvedor;Não;;0
+16/05/2018 20:58:29;303;N;M;Escola Politécnica (Poli);Engenharia da Computação;2° ano;0;Cientista de Dados;Sim;35, 133, 303, 356;50
+16/05/2018 21:02:17;112;N;M;Escola Politécnica (Poli);Engenharia da Computação;2° ano;0;Desenvolvedor;Sim;15, 112, 199, 287;19
+16/05/2018 21:09:02;35;N;F;Escola Politécnica (Poli);Engenharia de Produção;2° ano;0;Designer;Sim;35, 133, 303, 356;50
+16/05/2018 21:12:18;57;N;M;Escola Politécnica (Poli);Doutorado em Engenharia da Computação;Doutorado;0;Cientista de Dados;Não;;0
+16/05/2018 21:13:54;212;N;M;Escola de Artes, Ciências e Humanidades (EACH);Marketing;1° ano;0;Negócios;Sim;147, 211;17
+16/05/2018 21:15:25;311;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Sim;106, 364, 311, 347;5
+16/05/2018 21:21:02;40;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Estatística;3° ano;1;Cientista de Dados;Sim;40, 238;55
+16/05/2018 21:24:03;362;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Sim;101, 315, 322, 362;3
+16/05/2018 21:25:13;31;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;2;Desenvolvedor;Sim;31, 48, 95, 280;48
+16/05/2018 21:28:17;165;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;1;Desenvolvedor;Sim;5, 165, 300, 135;61
+16/05/2018 21:30:15;105;N;M;Escola de Artes, Ciências e Humanidades (EACH);Educação Física e Saúde;5° ano ou mais;0;Designer;Não;;0
+16/05/2018 21:31:21;234;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Administração;2° ano;0;Negócios;Não;;0
+16/05/2018 21:32:36;5;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;0;Desenvolvedor;Sim;5, 165, 300, 135;61
+16/05/2018 21:37:10;347;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Sim;106, 364, 311, 347;5
+16/05/2018 21:40:52;287;N;M;Escola Politécnica (Poli);Engenharia Química;2° ano;0;Designer;Sim;15, 112, 199, 287;19
+16/05/2018 21:43:20;49;N;M;Faculdade de Direito (FD);Direito;1° ano;0;Negócios;Não;;0
+16/05/2018 21:44:51;67;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;0;Cientista de Dados;Não;;0
+16/05/2018 21:46:51;263;N;F;Faculdade de Arquitetura e Urbanismo (FAU);Design;3° ano;0;Designer;Não;;0
+16/05/2018 21:47:22;335;N;M;Faculdade de Odontologia (FO);Pós-graduação em Ciências Odontológicas;Pós-graduação;0;Pesquisador;Não;;0
+16/05/2018 21:47:24;15;N;M;Escola Politécnica (Poli);Engenharia Química;5° ano ou mais;0;Desenvolvedor;Sim;15, 112, 199, 287;19
+16/05/2018 21:52:17;3;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Estatística ;4° ano;0;Cientista de Dados;Sim;3, 33, 191, 204;45
+16/05/2018 21:58:03;199;N;M;Escola Politécnica (Poli);Engenharia Química ;4° ano;0;Negócios;Sim;15, 112, 199, 287;19
+16/05/2018 21:59:04;16;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Negócios;Sim;16, 17, 98;24
+16/05/2018 22:05:53;300;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;0;Desenvolvedor;Sim;5, 165, 300, 135;61
+16/05/2018 22:11:21;237;N;M;Faculdade de Ciências Farmacêuticas (FCF);Farmácia-Bioquímica;1° ano;0;Designer;Sim;;0
+16/05/2018 22:20:48;189;N;F;Faculdade de Arquitetura e Urbanismo (FAU);Design;4° ano;0;Designer;Não;;0
+16/05/2018 22:22:25;174;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;5° ano ou mais;1;Cientista de Dados;Sim;18, 185, 174, 324;28
+16/05/2018 22:24:40;18;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;5° ano ou mais;0;Negócios;Sim;18, 185, 174, 324;28
+16/05/2018 22:29:27;307;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;2° ano;1;Desenvolvedor;Sim;23, 240, 307, 320;38
+16/05/2018 22:35:05;120;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Sim;;0
+16/05/2018 22:41:22;137;S;M;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;1;Desenvolvedor;Sim;137, 213, 276;15
+16/05/2018 22:41:27;324;N;M;Escola Politécnica (Poli);Engenharia de Minas;5° ano ou mais;0;Desenvolvedor;Sim;18, 185, 174, 324;28
+16/05/2018 22:42:47;213;S;M;Escola Politécnica (Poli);Engenharia Civil;5° ano ou mais;1;Cientista de Dados;Sim;137, 213, 276;15
+16/05/2018 22:43:54;215;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;1;Cientista de Dados;Não;;0
+16/05/2018 22:44:10;276;S;F;Escola Politécnica (Poli);Engenharia de Materiais;5° ano ou mais;0;Cientista de Dados;Sim;137, 213, 276;15
+16/05/2018 22:44:45;185;N;M;Escola Politécnica (Poli);Engenharia Elétrica;4° ano;2;Desenvolvedor;Sim;18, 185, 174, 324;28
+16/05/2018 22:46:01;195;N;F;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;0;Cientista de Dados;Não;;0
+16/05/2018 22:50:56;136;N;M;Escola Politécnica (Poli);Engenharia da Computação;1° ano;0;Negócios;Não;136, 180;14
+16/05/2018 23:08:07;247;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;4° ano;2;Desenvolvedor;Sim;247, 208, 280;40
+16/05/2018 23:10:25;122;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Estatística;1° ano;0;Cientista de Dados;Não;;0
+16/05/2018 23:32:20;7;N;M;Instituto de Matemática e Estatística (IME);Licenciatura em Matemática;3° ano;0;Desenvolvedor;Não;;0
+16/05/2018 23:54:49;191;S;F;Escola Politécnica (Poli);Engenharia da Computação;4° ano;1;Cientista de Dados;Sim;3, 33, 191, 204;45
+17/05/2018 00:19:22;305;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);;3° ano;0;Negócios;Não;;0
+17/05/2018 00:27:52;201;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;1;Negócios;Sim;42, 107, 201, 205;57
+17/05/2018 00:35:42;26;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;5° ano ou mais;0;Desenvolvedor;Sim;26, 28;43
+17/05/2018 00:46:39;205;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;1;Desenvolvedor;Sim;42, 107, 201, 205;57
+17/05/2018 00:59:01;232;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Pós-graduação em Empreendedorismo e Inovação;Pós-graduação;0;Negócios;Não;;0
+17/05/2018 01:35:14;340;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Cientista de Dados;Não;;0
+17/05/2018 02:32:23;345;N;M;Escola de Engenharia de São Carlos (EESC);Engenharia da Computação;2° ano;0;Negócios;Não;;0
+17/05/2018 03:38:46;351;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;1;Cientista de Dados;Sim;38, 197, 292, 351;53
+17/05/2018 07:40:46;286;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4° ano;0;Desenvolvedor;Não;;0
+17/05/2018 07:51:07;282;N;M;Escola de Engenharia de Lorena (EEL);Engenharia Bioquímica;5° ano ou mais;0;Analista;Não;;0
+17/05/2018 08:01:46;228;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;1;Desenvolvedor;Sim;12, 75, 228, 245;12
+17/05/2018 08:08:39;131;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Sim;64, 131, 357, 358;70
+17/05/2018 08:15:08;365;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;188, 214, 304, 365;29
+17/05/2018 08:16:17;180;N;M;Escola Politécnica (Poli);Engenharia da Computação;1° ano;0;Desenvolvedor;Sim;136, 180;14
+17/05/2018 08:16:59;233;N;M;Escola Politécnica (Poli);Engenharia Elétrica;2° ano;0;Negócios;Não;;0
+17/05/2018 08:46:23;323;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;1;Desenvolvedor;Sim;10, 270, 299, 323;2
+17/05/2018 08:46:26;299;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Estatística;4° ano;0;Cientista de Dados;Sim;10, 270, 299, 323;2
+17/05/2018 08:48:20;84;N;M;Instituto de Física (IF);Bacharelado em Física;4° ano;1;Cientista de Dados;Não;84, 97;73
+17/05/2018 09:07:08;45;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3° ano;2;Desenvolvedor;Sim;45, 54, 281, 296;59
+17/05/2018 09:18:13;154;N;M;Escola de Engenharia de São Carlos (EESC);Engenharia Elétrica;5° ano ou mais;2;Desenvolvedor;Não;154, 294;21
+17/05/2018 09:30:59;54;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4° ano;1;Desenvolvedor;Sim;45, 54, 281, 296;59
+17/05/2018 09:46:56;146;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5° ano ou mais;2;Desenvolvedor;Sim;;0
+17/05/2018 09:52:26;8;N;F;Faculdade de Ciências Farmacêuticas (FCF);Farmácia-Bioquímica;4° ano;0;Negócios;Não;;0
+17/05/2018 09:52:31;182;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5° ano ou mais;2;Desenvolvedor;Não;;0
+17/05/2018 09:59:10;98;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Designer;Sim;16, 17, 98;24
+17/05/2018 10:00:51;17;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Sim;16, 17, 98;24
+17/05/2018 10:06:36;14;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Sim;12, 14, 190, 193;11
+17/05/2018 10:07:28;193;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Sim;12, 14, 190, 193;11
+17/05/2018 10:16:13;190;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Sim;12, 14, 190, 193;11
+17/05/2018 10:17:23;219;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3° ano;1;Cientista de Dados;Não;;0
+17/05/2018 11:01:07;48;N;F;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Cientista de Dados;Sim;31, 48, 95, 280;48
+17/05/2018 11:04:01;280;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;1;Designer;Sim;31, 48, 95, 280;48
+17/05/2018 11:07:03;343;N;M;Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH);Ciências Sociais;4° ano;0;Cientista de Dados;Não;;0
+17/05/2018 11:08:13;42;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;1;Desenvolvedor;Sim;42, 107, 201, 205;57
+17/05/2018 11:09:09;197;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Sim;38, 197, 292, 351;53
+17/05/2018 11:10:36;168;S;M;Escola Politécnica (Poli);Pós-graduação em Engenharia da Computação;Pós-graduação;2;Cientista de Dados;Não;94, 168, 206, 302;78
+17/05/2018 11:15:07;130;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada;5° ano ou mais;0;Cientista de Dados;Não;;0
+17/05/2018 11:15:14;69;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5° ano ou mais;2;Desenvolvedor;Não;;0
+17/05/2018 11:24:10;107;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;2;Desenvolvedor;Sim;42, 107, 201, 205;57
+17/05/2018 11:44:25;38;S;F;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Sistemas de Informação;1° ano;0;Designer;Sim;38, 197, 292, 351;53
+17/05/2018 11:48:35;94;S;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;0;Desenvolvedor;Sim;94, 168, 206, 302;78
+17/05/2018 11:49:42;292;S;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Sim;38, 197, 292, 351;53
+17/05/2018 12:01:53;348;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5° ano ou mais;0;Desenvolvedor;Sim;;0
+17/05/2018 12:05:44;129;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Matemática Aplicada;Pós-graduação;2;Cientista de Dados;Não;;0
+17/05/2018 12:17:10;336;N;F;Escola Politécnica (Poli);Tecnologia de Software;3° ano;2;Desenvolvedor;Não;;0
+17/05/2018 13:21:40;285;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Administração;2° ano;0;Negócios;Não;;0
+17/05/2018 13:23:19;128;N;M;Escola Politécnica (Poli);Engenharia Elétrica;3° ano;0;Desenvolvedor;Não;;0
+17/05/2018 13:36:05;91;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;1;Negócios;Sim;36, 55, 91, 359;51
+17/05/2018 13:45:36;36;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;0;Designer;Sim;36, 55, 91, 359;51
+17/05/2018 13:58:05;328;N;M;Escola de Comunicações e Artes (ECA);Turismo;3° ano;0;Negócios;Não;;0
+17/05/2018 13:59:12;196;N;F;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;93, 138, 196, 256;77
+17/05/2018 14:00:44;93;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;93, 138, 196, 256;77
+17/05/2018 14:02:18;256;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;93, 138, 196, 256;77
+17/05/2018 14:07:08;246;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5° ano ou mais;0;Desenvolvedor;Sim;43, 66, 246 ;58
+17/05/2018 14:09:40;66;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Sistemas de Informação;2° ano;2;Desenvolvedor;Sim;43, 66, 246 ;58
+17/05/2018 14:10:02;43;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5° ano ou mais;0;Desenvolvedor;Sim;43, 66, 246 ;58
+17/05/2018 14:17:53;59;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Sim;59, 178, 316;66
+17/05/2018 14:27:53;277;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;260, 277, 160, 141, 352, 144, 90;44
+17/05/2018 14:29:06;316;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Sim;59, 178, 316;66
+17/05/2018 14:30:15;160;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;260, 277, 160, 141, 352, 144, 90;44
+17/05/2018 14:33:13;352;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;260, 277, 160, 141, 352, 144, 90;44
+17/05/2018 14:33:27;260;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;260, 277, 160, 141, 352, 144, 90;44
+17/05/2018 14:34:21;177;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;260, 277, 160, 141, 352, 144, 90;44
+17/05/2018 14:41:36;90;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;260, 277, 160, 141, 352, 144, 90;44
+17/05/2018 14:46:29;55;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3° ano;2;Desenvolvedor;Sim;36, 55, 91, 359;51
+17/05/2018 15:22:51;141;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;2° ano;0;Cientista de Dados;Sim;260, 277, 160, 141, 352, 144, 90;44
+17/05/2018 16:41:09;361;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;1° ano;1;Desenvolvedor;Sim;250, 361, 363;42
+17/05/2018 17:21:57;360;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Administração ;2° ano;0;Negócios;Sim;;0
+17/05/2018 17:38:06;356;N;M;Escola Politécnica (Poli);Engenharia da Computação;2° ano;0;Desenvolvedor;Sim;35, 133, 303, 356;50
+17/05/2018 17:59:27;127;N;M;Escola Politécnica (Poli);Engenharia Naval;5° ano ou mais;0;Cientista de Dados;Não;;0
+17/05/2018 19:14:21;145;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Sim;;0
+17/05/2018 19:51:05;363;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;1° ano;0;Desenvolvedor;Sim;250, 361, 363;42
+17/05/2018 21:40:14;359;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3° ano;1;Desenvolvedor;Sim;36, 55, 91, 359;51
+17/05/2018 21:41:54;47;N;F;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;4° ano;0;Negócios;Sim;47, 100, 224, 333;60
+17/05/2018 21:44:15;224;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;3° ano;0;Desenvolvedor;Sim;47, 100, 224, 333;60
+17/05/2018 21:46:38;100;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;4° ano;0;Desenvolvedor;Sim;47, 100, 224, 333;60
+17/05/2018 21:50:38;333;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;3° ano;0;Negócios;Sim;47, 100, 224, 333;60
+17/05/2018 22:03:21;243;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4° ano;0;Cientista de Dados;Não;;0
+17/05/2018 22:05:32;250;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;2° ano;0;Desenvolvedor;Sim;250, 361, 363;42
+17/05/2018 22:12:25;319;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;1° ano;0;Negócios;Sim;172, 319;26
+17/05/2018 22:17:28;259;N;M;Escola Politécnica (Poli);Engenharia Mecânica;1° ano;0;Nenhuma;Sim;175, 181, 259, 278;27
+17/05/2018 22:41:08;29;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Não;;0
+17/05/2018 22:44:06;181;N;M;Escola Politécnica (Poli);Engenharia Mecânica;1° ano;0;Desenvolvedor;Sim;175, 181, 259, 278;27
+17/05/2018 22:45:10;278;N;M;Escola Politécnica (Poli);Engenharia Mecânica;1° ano;0;Desenvolvedor;Sim;175, 181, 259, 278;27
+17/05/2018 23:23:58;81;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;1;Desenvolvedor;Não;;0
+17/05/2018 23:24:48;265;N;F;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;3° ano;0;Cientista de Dados;Não;;0
+17/05/2018 23:32:18;95;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;1;Cientista de Dados;Sim;31, 48, 95, 280;48
+18/05/2018 00:26:36;86;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5° ano ou mais;1;Cientista de Dados;Sim;86, 92, 125;74
+18/05/2018 00:54:16;313;N;M;Faculdade de Arquitetura e Urbanismo (FAU);Design;4° ano;0;Designer;Não;;0
+18/05/2018 05:27:23;175;N;M;Escola Politécnica (Poli);Engenharia Mecânica;1° ano;0;Nenhuma;Sim;175, 181, 259, 278;27
+18/05/2018 06:06:07;125;N;M;Escola de Artes, Ciências e Humanidades (EACH);Pós-graduacão em Sistemas de Informação;Pós-graduação;5;Cientista de Dados;Sim;86, 92, 125;74
+18/05/2018 08:43:21;230;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Desenvolvedor;Não;;0
+18/05/2018 08:49:56;109;S;M;Escola Politécnica (Poli);Curso de Ciências Moleculares;3° ano;0;Cientista de Dados;Sim;50, 109, 161, 334;62
+18/05/2018 10:30:30;294;S;M;Escola de Engenharia de São Carlos (EESC);Engenharia Elétrica;5° ano ou mais;0;Desenvolvedor;Sim;154, 294;21
+18/05/2018 10:44:13;153;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3° ano;5;Desenvolvedor;Sim;153, 255;20
+18/05/2018 10:51:17;255;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3° ano;1;Desenvolvedor;Sim;153, 255;20
+18/05/2018 12:20:07;355;N;F;Faculdade de Direito (FD);Direito;2° ano;0;Negócios;Não;;0
+18/05/2018 12:31:29;301;N;M;Faculdade de Ciências Farmacêuticas (FCF);Farmácia-Bioquímica;5° ano ou mais;0;Farmácia;Sim;115, 142, 298, 301;8
+18/05/2018 12:31:34;298;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5° ano ou mais;1;Desenvolvedor;Sim;115, 142, 298, 301;8
+18/05/2018 12:34:54;115;N;M;Faculdade de Ciências Farmacêuticas (FCF);Farmácia-Bioquímica;3° ano;0;Designer;Sim;115, 142, 298, 301;8
+18/05/2018 12:36:58;6;N;M;Escola Politécnica (Poli);Pós-graduação em Engenharia Ambiental;Pós-graduação;0;Desenvolvedor;Não;;0
+18/05/2018 13:08:55;138;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Sim;93, 138, 196, 256;77
+18/05/2018 13:11:05;11;N;F;Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH);Ciências Sociais;2° ano;0;Cientista de Dados;Não;;0
+18/05/2018 13:23:39;150;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Contábeis;2° ano;0;Negócios;Não;;0
+18/05/2018 14:37:24;162;N;M;Instituto de Física (IF);Bacharelado em Física;1° ano;2;Desenvolvedor;Não;;0
+18/05/2018 14:39:01;178;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1° ano;0;Cientista de Dados;Sim;59, 178, 316;66
+18/05/2018 15:00:36;239;N;F;Faculdade de Medicina de Ribeirão Preto (FMRP);Informática Biomédica;2° ano;2;Desenvolvedor;Sim;39, 119, 163, 239;54
+18/05/2018 15:12:17;39;N;F;Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (FFCLRP);Informática Biomédica;2° ano;0;Desenvolvedor;Sim;39, 119, 163, 239;54
+18/05/2018 15:18:09;119;N;M;Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (FFCLRP);Informática Biomédica;1° ano;0;Desenvolvedor;Sim;39, 119, 163, 239;54
+18/05/2018 16:21:17;332;N;M;Escola Politécnica (Poli);Engenharia Elétrica;1° ano;0;Desenvolvedor;Sim;;0
+18/05/2018 17:20:32;163;N;M;Faculdade de Medicina de Ribeirão Preto (FMRP);Informática Biomédica;2° ano;0;Desenvolvedor;Sim;39, 119, 163, 239;54
+18/05/2018 17:24:41;342;N;M;Escola Politécnica (Poli);Engenharia Elétrica;1° ano;0;Desenvolvedor;Não;;0
+18/05/2018 17:41:04;139;N;F;Escola de Comunicações e Artes (ECA);Publicidade e Propaganda;4° ano;0;Negócios;Não;;0
+18/05/2018 18:00:58;302;N;F;Escola Politécnica (Poli);Pós-graduação em Engenharia da Computação;Pós-graduação;0;Desenvolvedor;Sim;94, 168, 206, 302;78
+18/05/2018 18:05:28;206;S;M;Escola Politécnica (Poli);Pós-graduação em Engenharia da Computação;Pós-graduação;0;Cientista de Dados;Sim;94, 168, 206, 302;78
+18/05/2018 18:47:42;306;N;M;Escola Politécnica (Poli);Engenharia Elétrica;1° ano;0;Cientista de Dados;Sim;306, 327, 350;47
+18/05/2018 19:04:09;350;N;M;Escola Politécnica (Poli);Engenharia da Computação;1° ano;0;Desenvolvedor;Não;306, 327, 350;47
+18/05/2018 19:22:28;104;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;1° ano;0;Designer;Sim;32, 104, 226, 341;49
+18/05/2018 19:29:04;341;N;F;Instituto de Matemática e Estatística (IME);Licenciatura em Matemática;1° ano;0;Designer;Sim;32, 104, 226, 341;49
+18/05/2018 20:39:23;353;N;M;Escola Politécnica (Poli);Engenharia da Computação;2° ano;0;Desenvolvedor;Sim;118, 253, 339, 353;10
+18/05/2018 20:41:24;118;N;M;Escola Politécnica (Poli);Engenharia da Computação;2° ano;0;Desenvolvedor;Sim;118, 253, 339, 353;10
+18/05/2018 20:43:38;253;N;M;Escola Politécnica (Poli);Engenharia da Computação;2° ano;0;Cientista de Dados;Sim;118, 253, 339, 353;10
+18/05/2018 20:45:50;266;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Negócios;Não;;0
+18/05/2018 20:49:27;186;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+18/05/2018 20:55:35;65;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+18/05/2018 20:58:03;309;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Designer;Não;;0
+18/05/2018 21:00:16;274;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+18/05/2018 21:03:12;151;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Negócios;Não;;0
+18/05/2018 22:03:06;92;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5° ano ou mais;2;Designer;Sim;86, 92, 125;74
+18/05/2018 22:30:50;166;N;M;Escola Politécnica (Poli);Pós-graduação em Sistemas Eletrônicos;Pós-graduação;0;Desenvolvedor;Não;;0
+18/05/2018 22:39:10;102;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+18/05/2018 22:46:29;331;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;0;Desenvolvedor;Sim;61, 108, 331;68
+18/05/2018 23:10:09;171;N;F;Escola Politécnica (Poli);Engenharia Mecatrônica ;2° ano;0;Desenvolvedor;Sim;68, 121, 171, 308;71
+18/05/2018 23:34:13;235;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5° ano ou mais;0;Desenvolvedor;Sim;71, 211, 235;72
+18/05/2018 23:35:03;68;N;F;Escola Politécnica (Poli);Engenharia de Produção;3° ano;1;Desenvolvedor;Sim;68, 121, 171, 308;71
+18/05/2018 23:35:36;211;N;F;Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG);Pós-graduação em Astronomia;Pós-graduação;0;Cientista de Dados;Sim;71, 211, 235;72
+18/05/2018 23:44:31;71;N;M;Faculdade de Arquitetura e Urbanismo (FAU);Design;3° ano;0;Designer;Sim;71, 211, 235;72
+18/05/2018 23:52:59;169;N;M;Escola Politécnica (Poli);Pós-graduação em Inovação na Construção Civil;Pós-graduação;0;Negócios;Não;;0
+19/05/2018 00:50:49;121;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;2° ano;0;Desenvolvedor;Sim;68, 121, 171, 308;71
+19/05/2018 10:55:11;116;N;M;Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG);Pós-doutorado em Astronomia;Pós-doutorado;0;Cientista de Dados;Não;;0
+19/05/2018 12:21:33;339;N;M;Escola Politécnica (Poli);Engenharia da Computação;2° ano;0;Desenvolvedor;Sim;118, 253, 339, 353;10
+19/05/2018 13:14:22;187;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;1;Desenvolvedor;Não;;0
+19/05/2018 13:36:11;273;N;M;Escola de Artes, Ciências e Humanidades (EACH);Marketing;3° ano;1;Desenvolvedor;Não;;0
+19/05/2018 14:35:34;172;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica ;1° ano;0;Nenhuma;Sim;172, 319;26
+19/05/2018 14:49:30;308;N;M;Escola Politécnica (Poli);Engenharia de Produção ;2° ano;0;Cientista de Dados;Sim;68, 121, 171, 308;71
+19/05/2018 19:26:00;103;N;F;Escola Superior de Agricultura “Luiz de Queiroz”;Marketing;1° ano;0;Designer;Sim;103, 110;4
+19/05/2018 20:16:10;269;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+19/05/2018 22:06:06;142;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;0;Desenvolvedor;Sim;115, 142, 298, 301;8
+20/05/2018 00:17:41;157;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+20/05/2018 01:42:01;134;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Cientista de Dados;Não;;0
+20/05/2018 07:43:16;80;N;M;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;0;Cientista de Dados;Não;;0
+20/05/2018 09:28:51;242;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;3° ano;1;Desenvolvedor;Não;53, 58, 242;65
+20/05/2018 12:16:26;32;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;1° ano;0;Designer;Sim;32, 104, 226, 341;49
+20/05/2018 12:22:07;58;N;M;Escola de Engenharia de São Carlos (EESC);Engenharia da Computação;5° ano ou mais;5;Cientista de Dados;Sim;53, 58, 242;65
+20/05/2018 13:27:07;53;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;3° ano;0;Cientista de Dados;Sim;53, 58, 242;65
+20/05/2018 14:55:18;226;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Matemática Aplicada e Computacional;1° ano;0;Nenhuma;Sim;32, 104, 226, 341;49
+20/05/2018 18:52:54;231;N;F;Escola Politécnica (Poli);Engenharia Elétrica;5° ano ou mais;0;Desenvolvedor;Sim;123, 194, 231;13
+20/05/2018 19:00:20;83;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;0;Desenvolvedor;Não;19, 354, 83;30
+20/05/2018 19:12:07;19;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;1;Desenvolvedor;Sim;19, 354, 83;30
+20/05/2018 20:34:26;21;N;M;Faculdade de Arquitetura e Urbanismo (FAU);Design;3° ano;0;Negócios;Sim;21, 71, 211, 235;34
+20/05/2018 20:35:19;291;N;M;Faculdade de Medicina de Ribeirão Preto (FMRP);Informática Biomédica;1° ano;0;Desenvolvedor;Sim;;0
+20/05/2018 20:40:07;209;N;F;Instituto de Ciências Biomédicas (ICB);;3° ano;0;Nenhuma;Sim;203, 209;32
+20/05/2018 20:47:44;77;N;F;Faculdade de Direito (FD);Direito;1° ano;0;Negócios;Não;;0
+20/05/2018 21:21:26;2;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3° ano;1;Desenvolvedor;Sim;2, 200, 330;31
+20/05/2018 21:24:38;330;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;Pós-graduação;5;Desenvolvedor;Sim;2, 200, 330;31
+20/05/2018 21:24:39;200;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5° ano ou mais;0;Desenvolvedor;Sim;2, 200, 330;31
+20/05/2018 21:58:13;203;N;M;Escola Politécnica (Poli);Engenharia Elétrica;3° ano;0;Desenvolvedor;Sim;203, 209;32
+20/05/2018 22:04:38;271;N;M;Escola de Comunicações e Artes (ECA);Música;5° ano ou mais;0;Cientista de Dados;Não;;0
+20/05/2018 22:04:53;344;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1° ano;0;Desenvolvedor;Não;;0
+20/05/2018 22:15:02;267;N;M;Instituto de Ciências Biomédicas (ICB);Ciencias Biomédicas ;1° ano;0;Nenhuma;Sim;;0
+20/05/2018 22:15:26;63;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2° ano;0;Desenvolvedor;Não;;0
+20/05/2018 22:15:57;24;N;M;Escola Politécnica (Poli);Engenharia Civil;4° ano;0;Negócios;Sim;24, 63;39
+20/05/2018 22:27:37;156;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;1;Desenvolvedor;Não;;0
+20/05/2018 23:36:02;354;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2° ano;1;Cientista de Dados;Sim;19, 354, 83;30
+21/05/2018 01:52:40;238;N;F;Faculdade de Arquitetura e Urbanismo (FAU);Design;4° ano;0;Designer;Sim;40, 238;55
+21/05/2018 10:09:32;241;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3° ano;0;Desenvolvedor;Não;;0
+21/05/2018 11:53:56;110;N;M;Escola Politécnica (Poli);Engenharia da Computação;5° ano ou mais;2;Desenvolvedor;Não;103, 110;4

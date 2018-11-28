@@ -1,0 +1,551 @@
+Carimbo de data/hora;ID;Selecionado;Gênero;Qual a sua escola / faculdade / instituto?;Qual o seu curso / programa de pós?;Em que ano você está?;Você já participou de quantos hackathons?;Qual a sua especialidade?;Você já tem equipe formada?;Se sim, conte-nos quem são:;Time;Em que universidade você estuda (ou estudou)?
+09/08/2016 19:55:46;46;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Não;46, 56, 309, 483;54;
+09/08/2016 20:24:09;309;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1º ano;0;Nenhuma;Não;46, 56, 309, 483;54;
+09/08/2016 22:57:08;56;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Sim;46, 56, 309, 483;54;
+18/08/2016 22:49:37;47;S;F;Não USP;;;0;Desenvolvedor;Não;;0;Fatec
+19/08/2016 21:47:33;35;S;M;Não USP;;;0;Desenvolvedor;Não;;0;Uninove
+23/08/2016 09:44:28;483;S;M;Instituto de Matemática e Estatística (IME);Matemática Aplicada;1º ano;0;Desenvolvedor;Sim;46, 56, 309, 483;54;
+24/07/2016 20:53:04;227;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;2;Desenvolvedor;Sim;227, 303, 339, 402;31;
+24/07/2016 21:01:17;342;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;5;Desenvolvedor;Sim;332, 342, 511, 513;47;
+24/07/2016 21:01:24;438;S;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+24/07/2016 21:01:25;513;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3º ano;1;Desenvolvedor;Sim;332, 342, 511, 513;47;
+24/07/2016 21:01:33;197;S;M;Escola Politécnica (Poli);Engenharia Elétrica;2º ano;0;Desenvolvedor;Sim;112, 197,341, 364;7;
+24/07/2016 21:01:55;93;S;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+24/07/2016 21:01:57;206;S;M;Não USP;;;1;Desenvolvedor;Não;;0;Fatec
+24/07/2016 21:02:00;333;S;M;Não USP;;;0;Desenvolvedor;Não;;0;Fatec
+24/07/2016 21:02:07;92;S;F;Não USP;;;0;Empreendedor/Negócios;Não;;0;Uniban
+24/07/2016 21:02:17;341;S;M;Escola Politécnica (Poli);Engenharia Elétrica;2º ano;2;Desenvolvedor;Sim;112, 197,341, 364;7;
+24/07/2016 21:02:41;511;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;2;Desenvolvedor;Não;332, 342, 511, 513;47;
+24/07/2016 21:02:44;232;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Sim;171, 183, 230, 232;22;
+24/07/2016 21:02:47;329;S;M;Não USP;;;2;Desenvolvedor;Não;;0;Universidade de Brasilia
+24/07/2016 21:02:48;77;S;M;Não USP;;;0;Desenvolvedor;Não;;0;IFPI
+24/07/2016 21:02:53;507;S;F;Faculdade de Arquitetura e Urbanismo (FAU);Bacharelado em Design;5º ano ou mais;1;Desenvolvedor;Sim;159, 507;18;
+24/07/2016 21:03:00;40;S;M;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:03:06;3;S;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;1;Desenvolvedor;Sim;1, 156, 269, 459;1;
+24/07/2016 21:03:11;51;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1º ano;1;Desenvolvedor;Sim;51, 241, 519;56;
+24/07/2016 21:03:16;416;S;M;Não USP;;;1;Desenvolvedor;Não;;0;Fatec
+24/07/2016 21:03:18;250;S;F;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Desenvolvedor;Sim;18, 250, 313, 340;23;
+24/07/2016 21:03:19;402;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;1;Desenvolvedor;Sim;227, 303, 339, 402;31;
+24/07/2016 21:03:25;269;S;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;2;Desenvolvedor;Sim;1, 156, 269, 459;1;
+24/07/2016 21:03:29;159;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5º ano ou mais;1;Desenvolvedor;Sim;159, 507;18;
+24/07/2016 21:03:35;369;S;F;Escola Politécnica (Poli);Engenharia Civil;1º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:03:45;324;S;M;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Contábeis;2º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:03:47;170;S;M;Escola Politécnica (Poli);Engenharia da Computação;3º ano;1;Desenvolvedor;Não;170, 238, 384, 391;21;
+24/07/2016 21:03:48;111;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;ESPM
+24/07/2016 21:03:49;171;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Sim;171, 183, 230, 232;22;
+24/07/2016 21:03:49;305;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UFSCar
+24/07/2016 21:03:50;25;S;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+24/07/2016 21:04:00;330;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:04:08;439;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Universidade Presbiteriana Mackenzie
+24/07/2016 21:04:10;355;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+24/07/2016 21:04:22;336;S;M;Escola Politécnica (Poli);Pós-graduação em Engenharia da Computação;Pós-graduação;5;Desenvolvedor;Não;;0;
+24/07/2016 21:04:33;237;S;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2º ano;1;Empreendedor/Negócios;Sim;131, 237, 306;10;
+24/07/2016 21:04:35;195;S;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;4º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:04:38;364;S;M;Escola Politécnica (Poli);Engenharia Elétrica;2º ano;0;Desenvolvedor;Sim;112, 197,341, 364;7;
+24/07/2016 21:04:42;7;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+24/07/2016 21:04:43;44;S;F;Escola de Artes, Ciências e Humanidades (EACH);Pós-graduação em Sistemas de Informação;Pós-graduação;0;Desenvolvedor;Não;;0;
+24/07/2016 21:04:47;540;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+24/07/2016 21:04:50;372;S;F;Escola Politécnica (Poli);Engenharia Civil;1º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:04:53;251;S;F;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4º ano;1;Desenvolvedor;Não;244, 251, 503;35;
+24/07/2016 21:04:54;96;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5º ano ou mais;5;Desenvolvedor;Não;;0;
+24/07/2016 21:04:55;135;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Sim;135, 498;11;
+24/07/2016 21:04:56;281;N;M;Não USP;;;2;Desenvolvedor;Não;;0;UNICESUMAR
+24/07/2016 21:04:57;536;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:05:14;84;S;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;2;Desenvolvedor;Não;;0;
+24/07/2016 21:05:16;396;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;Universidade Anhembi Morumbi
+24/07/2016 21:05:17;234;N;M;Não USP;;;5;Desenvolvedor;Não;;0;UNICAMP
+24/07/2016 21:05:18;194;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;1;Desenvolvedor;Não;;0;
+24/07/2016 21:05:19;32;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UNESP
+24/07/2016 21:05:20;57;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Universidade Nove de Julho
+24/07/2016 21:05:25;303;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;2;Desenvolvedor;Sim;227, 303, 339, 402;31;
+24/07/2016 21:05:26;243;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;1º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:05:28;246;N;M;Não USP;;;2;Desenvolvedor;Não;;0;UFF
+24/07/2016 21:05:33;217;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:05:34;264;S;M;Escola de Engenharia de Lorena (EEL);Engenharia Física;3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:05:38;99;N;F;Não USP;;;0;Desenvolvedor;Não;;0;UNICAMP
+24/07/2016 21:05:39;453;S;F;Escola de Comunicações e Artes (ECA);Publicidade e Propaganda;5º ano ou mais;0;Designer;Não;;0;
+24/07/2016 21:05:42;26;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5º ano ou mais;2;Desenvolvedor;Sim;26, 48, 343, 422;37;
+24/07/2016 21:05:46;52;S;F;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;2º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:05:47;272;N;M;Escola de Engenharia de Lorena (EEL);Engenharia de Produção;2º ano;0;Engenharia;Sim;6, 272;58;
+24/07/2016 21:05:56;408;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5º ano ou mais;2;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:05:59;304;N;M;Escola de Artes, Ciências e Humanidades (EACH);;3º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:06:01;301;S;M;Escola Politécnica (Poli);Engenharia Elétrica;3º ano;0;Empreendedor/Negócios;Sim;130, 301;9;
+24/07/2016 21:06:06;101;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;FGV
+24/07/2016 21:06:07;192;N;M;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:06:11;39;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Pós-graduação em Ciências de Computação e Matemática Computacional;Pós-graduação;1;Desenvolvedor;Não;;0;
+24/07/2016 21:06:11;482;N;M;Escola Politécnica (Poli);Engenharia Química;2º ano;0;Designer;Não;;0;
+24/07/2016 21:06:18;382;S;M;Escola Politécnica (Poli);Engenharia Mecatrônica;1º ano;0;Empreendedor/Negócios;Não;307, 382;45;
+24/07/2016 21:06:18;541;N;M;Não USP;;;5;Empreendedor/Negócios;Não;;0;UFF
+24/07/2016 21:06:21;161;N;M;Instituto de Física de São Carlos (IFSC);Física Computacional;Pós-graduação;0;Desenvolvedor;Não;;0;
+24/07/2016 21:06:24;220;N;M;Escola de Artes, Ciências e Humanidades (EACH);Pós-graduação em Sistemas de Informação;Pós-graduação;0;Desenvolvedor;Não;;0;
+24/07/2016 21:06:26;209;N;F;Não USP;;;0;Desenvolvedor;Não;;0;UFSCar 
+24/07/2016 21:06:26;475;S;M;Não USP;;;0;Desenvolvedor;Não;;0;Fatec
+24/07/2016 21:06:28;61;N;M;Não USP;;;1;Desenvolvedor;Não;;0;Universidade Presbiteriana Mackenzie
+24/07/2016 21:06:33;241;S;M;Escola Politécnica (Poli);Engenharia Mecânica;1º ano;0;Desenvolvedor/Negócios;Sim;51, 241, 519;56;
+24/07/2016 21:06:36;249;N;F;Não USP;;;0;Designer;Não;;0;Centro Universitario Senac
+24/07/2016 21:06:39;112;S;M;Escola Politécnica (Poli);Engenharia Elétrica;2º ano;1;Empreendedor/Negócios;Sim;112, 197,341, 364;7;
+24/07/2016 21:06:40;428;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Pós-graduação em Economia ;Pós-graduação;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:06:48;6;N;M;Não USP;;;0;Desenvolvedor;Sim;6, 272;58;Universidade Presbiteriana Mackenzie
+24/07/2016 21:06:54;133;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+24/07/2016 21:06:58;332;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;2;Desenvolvedor;Sim;332, 342, 511, 513;47;
+24/07/2016 21:06:58;449;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;ESPM
+24/07/2016 21:07:03;417;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;4º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:07:03;456;N;M;Escola de Artes, Ciências e Humanidades (EACH);Gestão de Políticas Públicas;2º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:07:09;404;N;F;Não USP;;;0;Empreendedor/Negócios;Sim;59, 400, 404, 534;57;FGV
+24/07/2016 21:07:17;292;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;2º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:07:31;125;N;M;Escola Politécnica (Poli);Engenharia Mecânica;Pós-graduação;1;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:07:32;16;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);;4º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:07:32;420;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:07:36;23;N;M;Escola de Artes, Ciências e Humanidades (EACH);Pós-graduação em Marketing;Pós-graduação;0;Marketing;Não;;0;
+24/07/2016 21:07:39;62;N;M;Escola Politécnica (Poli);Engenharia Civil;5º ano ou mais;1;Desenvolvedor;Não;;0;
+24/07/2016 21:07:41;473;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;Strong ESAGS
+24/07/2016 21:07:42;21;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4º ano;1;Desenvolvedor;Sim;21, 215, 231, 393;25;
+24/07/2016 21:07:42;154;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UFABC
+24/07/2016 21:07:43;479;N;M;Não USP;;;0;Desenvolvedor;Não;;0;PUC-Campinas
+24/07/2016 21:07:45;221;N;M;Escola Politécnica (Poli);Engenharia Elétrica;2º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:07:59;148;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Estatística;1º ano;2;Desenvolvedor;Não;;0;
+24/07/2016 21:08:07;103;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UNICAMP
+24/07/2016 21:08:08;461;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;0;Desenvolvedor;Não;;0;
+24/07/2016 21:08:09;117;N;M;Não USP;;;2;Desenvolvedor;Não;;0;Fatec
+24/07/2016 21:08:16;10;N;F;Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto (FEA-RP);Bacharelado em Administração;2º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:08:16;497;N;F;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5º ano ou mais;1;Desenvolvedor;Não;;0;
+24/07/2016 21:08:27;284;S;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Sim;212, 284, 387, 447;28;
+24/07/2016 21:08:34;306;S;M;Não USP;;;0;Desenvolvedor;Sim;131, 237, 306;10;Universidade Anhembi Morumbi
+24/07/2016 21:08:52;149;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Pós-graduação em Ciência da Computação;Pós-graduação;5;Desenvolvedor;Sim;149, 283;16;
+24/07/2016 21:08:54;89;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;IBMEC
+24/07/2016 21:08:58;283;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Pós-graduação em Ciência da Computação;Pós-graduação;2;Desenvolvedor;Sim;149, 283;16;
+24/07/2016 21:09:16;236;N;M;Não USP;;;1;Designer;Não;;0;PUC
+24/07/2016 21:09:20;526;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UNICAMP
+24/07/2016 21:09:23;421;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:09:27;538;S;F;Não USP;;;0;Empreendedor/Negócios;Não;;0;Universidade Presbiteriana Mackenzie
+24/07/2016 21:09:34;140;N;F;Não USP;;;0;Desenvolvedor;Não;;0;IFSP
+24/07/2016 21:09:39;469;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;2º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:09:43;447;S;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Sim;212, 284, 387, 447;28;
+24/07/2016 21:09:48;282;S;F;Escola de Comunicações e Artes (ECA);Publicidade e Propaganda;4º ano;0;Comunicação/Publicidade;Não;36, 185, 282, 484;50;
+24/07/2016 21:09:52;104;N;M;Escola Politécnica (Poli);Engenharia da Computação;4º ano;0;Desenvolvedor;Sim;104, 218, 317, 352;4;
+24/07/2016 21:09:54;108;N;F;Não USP;;;2;Mentoria;Não;;0;Universidade Presbiteriana Mackenzie
+24/07/2016 21:09:58;98;N;F;Não USP;;;2;Desenvolvedor;Não;;0;UNICAMP
+24/07/2016 21:10:03;212;S;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Sim;212, 284, 387, 447;28;
+24/07/2016 21:10:05;68;N;M;Não USP;;;0;Desenvolvedor;Não;;0;FSA (Fundação Santo André)
+24/07/2016 21:10:12;477;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;FECAP
+24/07/2016 21:10:24;391;N;M;Escola Politécnica (Poli);Engenharia da Computação;3º ano;0;Desenvolvedor;Não;170, 238, 384, 391;21;
+24/07/2016 21:10:24;123;N;M;Não USP;;;5;Desenvolvedor;Não;;0;PUC
+24/07/2016 21:10:25;314;S;F;Não USP;;;0;Designer;Não;;0;IED
+24/07/2016 21:10:55;242;N;M;Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH);Filosofia;2º ano;0;Desenvolvedor;Sim;;0;
+24/07/2016 21:10:57;134;N;M;Instituto de Física (IF);Física;2º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:10:59;152;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Pós-graduação em Ciência da Computação;Pós-graduação;0;Desenvolvedor;Sim;152, 193, 542;17;
+24/07/2016 21:10:59;400;N;M;Instituto de Matemática e Estatística (IME);Curso de Ciências Moleculares;2º ano;0;Desenvolvedor;Sim;59, 400, 404, 534;57;
+24/07/2016 21:11:06;459;S;M;Escola Politécnica (Poli);Engenharia Elétrica;5º ano ou mais;0;Desenvolvedor;Não;1, 156, 269, 459;1;
+24/07/2016 21:11:12;193;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Pós-graduação em Ciência da Computação;Pós-graduação;0;Pesquisador;Sim;152, 193, 542;17;
+24/07/2016 21:11:19;406;S;F;Faculdade de Arquitetura e Urbanismo (FAU);Bacharelado em Design;5º ano ou mais;2;Designer;Não;;0;
+24/07/2016 21:11:48;121;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4º ano;5;Desenvolvedor;Não;;0;
+24/07/2016 21:11:49;432;N;M;Escola Politécnica (Poli);Engenharia Naval;4º ano;1;Desenvolvedor;Sim;275, 432;40;
+24/07/2016 21:12:20;259;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Pós-graduação em Administração;Pós-graduação;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:12:28;313;S;F;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Engenharia;Sim;18, 250, 313, 340;23;
+24/07/2016 21:12:34;299;N;F;Não USP;;;0;Empreendedor/Negócios;Não;;0;ESPM
+24/07/2016 21:12:39;418;S;M;Não USP;;;0;Desenvolvedor;Não;;0;Uninove
+24/07/2016 21:12:41;384;N;M;Escola Politécnica (Poli);Engenharia da Computação;3º ano;0;Desenvolvedor;Sim;170, 238, 384, 391;21;
+24/07/2016 21:13:09;184;N;M;Não USP;;;2;Desenvolvedor;Não;;0;PUC
+24/07/2016 21:13:15;517;N;M;Escola Politécnica (Poli);Pós-graduação em Tecnologia e Gestão na Produção de Edificios;Pós-graduação;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:13:37;340;S;M;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Engenharia;Sim;18, 250, 313, 340;23;
+24/07/2016 21:13:41;167;N;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;1;Cientista de Dados;Não;;0;
+24/07/2016 21:13:47;245;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Estácio de Sá
+24/07/2016 21:13:48;465;N;M;Não USP;;;2;Desenvolvedor;Não;;0;UNICAMP
+24/07/2016 21:14:10;460;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;ESPM
+24/07/2016 21:14:21;275;N;M;Escola Politécnica (Poli);Engenharia Elétrica;2º ano;0;Desenvolvedor;Sim;275, 432;40;
+24/07/2016 21:14:59;71;N;M;Não USP;;;1;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:15:09;30;N;M;Não USP;;;1;Desenvolvedor;Não;;0;UFSCar
+24/07/2016 21:15:18;527;N;M;Não USP;;;0;Desenvolvedor;Não;;0;
+24/07/2016 21:15:32;43;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:15:56;415;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;Insper
+24/07/2016 21:16:15;238;N;M;Escola Politécnica (Poli);Engenharia da Computação;3º ano;0;Desenvolvedor;Não;170, 238, 384, 391;21;
+24/07/2016 21:16:15;393;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;0;Desenvolvedor;Sim;21, 215, 231, 393;25;
+24/07/2016 21:16:15;529;N;M;Escola Politécnica (Poli);Pós-graduação em Engenharia Mecatrônica;Pós-graduação;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:16:25;59;N;M;Curso de Ciências Moleculares (CCM);Curso de Ciências Moleculares;2º ano;0;Desenvolvedor;Sim;59, 400, 404, 534;57;
+24/07/2016 21:16:26;363;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;UFSCar
+24/07/2016 21:16:33;335;S;F;Não USP;;;0;Designer;Não;;0;FAM
+24/07/2016 21:16:56;254;N;M;Escola Politécnica (Poli);Engenharia Elétrica;3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:16:56;294;N;F;Não USP;;;0;Desenvolvedor;Não;;0;IFSP
+24/07/2016 21:17:01;141;N;F;Faculdade de Arquitetura e Urbanismo (FAU);Arquitetura e Urbanismo;5º ano ou mais;0;Designer;Sim;29, 141, 543, 548;42;
+24/07/2016 21:17:09;504;S;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+24/07/2016 21:17:12;484;S;F;Escola de Comunicações e Artes (ECA);Publicidade e Propaganda;4º ano;0;Designer;Não;36, 185, 282, 484;50;
+24/07/2016 21:17:49;277;N;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;0;Desenvolvedor;Sim;102, 277, 427;3;
+24/07/2016 21:17:50;229;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;4º ano;1;Desenvolvedor;Não;;0;
+24/07/2016 21:19:21;165;N;M;Não USP;;;0;Designer;Não;;0;FIT - Faculdade Impacta de Tecnologia
+24/07/2016 21:19:58;502;N;M;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Engenharia;Não;;0;
+24/07/2016 21:20:41;169;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UNIMEP
+24/07/2016 21:21:03;451;N;M;Escola Politécnica (Poli);Engenharia Química;5º ano ou mais;0;Desenvolvedor;Sim;;0;
+24/07/2016 21:21:09;499;N;F;Não USP;;;0;Desenvolvedor;Não;;0;Unib
+24/07/2016 21:21:18;164;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UNICAMP
+24/07/2016 21:21:23;70;N;M;Escola de Engenharia de São Carlos (EESC);Engenharia da Computação;4º ano;2;Desenvolvedor;Não;70, 433, 496;60;
+24/07/2016 21:21:36;361;N;M;Não USP;;;1;Desenvolvedor;Não;;0;UFSCar
+24/07/2016 21:21:48;158;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UFABC
+24/07/2016 21:22:03;424;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;Universidade Presbiteriana Mackenzie
+24/07/2016 21:22:06;352;N;M;Escola Politécnica (Poli);Engenharia da Computação;4º ano;1;Desenvolvedor;Sim;104, 218, 317, 352;4;
+24/07/2016 21:22:53;138;N;M;Escola Politécnica (Poli);Engenharia Elétrica;3º ano;1;Desenvolvedor;Sim;138, 151, 175;13;
+24/07/2016 21:23:19;94;N;M;Não USP;;;1;Desenvolvedor;Não;;0;Uninove
+24/07/2016 21:23:50;19;N;M;Instituto de Matemática e Estatística (IME);Matemática (Licenciatura);3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:24:06;433;N;M;Escola Politécnica (Poli);Engenharia e Gestão de Novos Produtos e Serviços ;1º ano;1;Designer;Sim;70, 433, 496;60;
+24/07/2016 21:24:43;48;S;F;Faculdade de Arquitetura e Urbanismo (FAU);Arquitetura e Urbanismo;5º ano ou mais;0;Designer;Sim;26, 48, 343, 422;37;
+24/07/2016 21:25:30;383;N;M;Escola de Engenharia de São Carlos (EESC);Engenharia de Materiais;5º ano ou mais;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:25:33;430;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5º ano ou mais;2;Desenvolvedor;Sim;344, 430;48;
+24/07/2016 21:25:52;271;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;0;Desenvolvedor;Não;24, 248, 257, 271, 327, 389;34;
+24/07/2016 21:26:05;213;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Sim;213, 381, 505, 524;29;
+24/07/2016 21:26:46;95;N;M;Não USP;;;5;Desenvolvedor;Não;;0;
+24/07/2016 21:26:46;322;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:27:39;520;N;M;Escola Politécnica (Poli);Engenharia Elétrica;4º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:28:10;82;N;F;Escola de Artes, Ciências e Humanidades (EACH);Gestão Ambiental;2º ano;0;Engenharia;Não;;0;
+24/07/2016 21:28:50;423;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;Uninove
+24/07/2016 21:28:57;257;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;0;Desenvolvedor;Sim;24, 248, 257, 271, 327, 389;34;
+24/07/2016 21:29:06;426;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Centro Universitario Senac
+24/07/2016 21:29:32;353;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;1º ano;0;Empreendedor/Negócios;Não;202, 351, 353, 480;24;
+24/07/2016 21:30:22;386;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:31:08;535;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica;1º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:31:36;489;N;F;Escola de Comunicações e Artes (ECA);Publicidade e Propaganda;2º ano;0;Designer;Não;;0;
+24/07/2016 21:31:56;18;S;F;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Empreendedor/Negócios;Sim;18, 250, 313, 340;23;
+24/07/2016 21:32:52;463;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;0;Designer;Sim;182, 216, 463;24;
+24/07/2016 21:32:58;350;N;F;Escola Politécnica (Poli);Engenharia Mecatrônica;1º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:33:11;1;S;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+24/07/2016 21:33:14;493;N;M;Escola Politécnica (Poli);Engenharia de Minas;3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:33:16;157;N;M;Não USP;;;0;Desenvolvedor;Não;;0;IMES
+24/07/2016 21:33:44;131;S;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Sistemas de Informação;5º ano ou mais;0;Desenvolvedor;Sim;131, 237, 306;10;
+24/07/2016 21:34:03;86;N;F;Escola de Engenharia de São Carlos (EESC);Engenharia Mecânica;5º ano ou mais;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:34:20;267;N;M;Não USP;;;2;Desenvolvedor;Não;;0;SESI/SENAI RJ
+24/07/2016 21:34:45;320;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:35:03;291;N;F;Não USP;;;1;Empreendedor/Negócios;Não;;0;Instituto Mauá de Tecnologia 
+24/07/2016 21:36:00;258;N;M;Não USP;;;0;Desenvolvedor;Não;;0;FIT - Faculdade Impacta de Tecnologia
+24/07/2016 21:36:11;85;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;ESPM
+24/07/2016 21:36:26;412;N;M;Escola de Engenharia de São Carlos (EESC);Engenharia Mecatrônica;5º ano ou mais;1;Desenvolvedor;Não;;0;
+24/07/2016 21:36:35;144;N;F;Não USP;;;1;Empreendedor/Negócios;Não;;0;UFSCar
+24/07/2016 21:37:42;231;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;0;Desenvolvedor;Sim;21, 215, 231, 393;25;
+24/07/2016 21:38:06;49;N;F;Escola Politécnica (Poli);Engenharia da Computação;3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:39:01;405;N;M;Escola Politécnica (Poli);Engenharia da Computação;1º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 21:39:06;37;N;F;Não USP;;;0;Empreendedor/Negócios;Não;;0;Anhanguera 
+24/07/2016 21:40:27;266;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UFSCar
+24/07/2016 21:40:47;124;N;M;Não USP;;;0;Designer;Não;;0;Universidade Anhembi Morumbi
+24/07/2016 21:42:02;539;N;F;Escola Politécnica (Poli);Engenharia Elétrica;Pós-graduação;0;Desenvolvedor;Sim;224, 539;30;
+24/07/2016 21:42:08;12;N;M;Não USP;;;1;Desenvolvedor;Não;;0;UniNorte
+24/07/2016 21:42:34;218;N;M;Escola Politécnica (Poli);Engenharia da Computação;4º ano;2;Empreendedor/Negócios;Sim;104, 218, 317, 352;4;
+24/07/2016 21:43:25;344;N;M;Não USP;;;1;Desenvolvedor;Sim;344, 430;48;Unip
+24/07/2016 21:44:08;317;N;M;Escola Politécnica (Poli);Engenharia da Computação;4º ano;2;Desenvolvedor;Sim;104, 218, 317, 352;4;
+24/07/2016 21:47:32;207;N;M;Não USP;;;1;Desenvolvedor;Não;;0;UNICAMP
+24/07/2016 21:47:35;248;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;0;Desenvolvedor;Sim;24, 248, 257, 271, 327, 389;34;
+24/07/2016 21:49:04;397;N;M;Não USP;;;0;Designer;Não;;0;Anhanguera
+24/07/2016 21:50:36;425;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UFSCar 
+24/07/2016 21:51:39;27;N;M;Escola Politécnica (Poli);Engenharia do Petróleo;5º ano ou mais;0;Empreendedor/Negócios;Sim;27, 120, 328;38;
+24/07/2016 21:51:53;498;S;F;Escola Politécnica (Poli);Engenharia da Computação;1º ano;0;Desenvolvedor;Sim;135, 498;11;
+24/07/2016 21:53:26;434;N;M;Não USP;;;2;Desenvolvedor;Não;;0;UNICAMP
+24/07/2016 21:55:07;120;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Sim;27, 120, 328;38;
+24/07/2016 21:55:34;139;N;M;Não USP;;;5;Desenvolvedor;Não;;0;FIT - Faculdade Impacta de Tecnologia
+24/07/2016 21:56:03;276;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Universidade Presbiteriana Mackenzie
+24/07/2016 21:56:13;315;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;3º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:57:04;462;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;FGV
+24/07/2016 21:57:59;198;N;M;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Empreendedor/Negócios;Não;198, 308, 338,  537;23;
+24/07/2016 21:58:18;331;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Fatec
+24/07/2016 21:58:44;168;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;4º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 21:58:50;316;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Fatec
+24/07/2016 21:59:29;371;N;F;Não USP;;;0;Empreendedor/Negócios;Não;;0;Anhanguera 
+24/07/2016 22:00:04;160;N;M;Não USP;;;5;Desenvolvedor;Não;;0;FIAP
+24/07/2016 22:03:31;65;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 22:03:37;495;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;2º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 22:07:34;204;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Fatec
+24/07/2016 22:08:27;126;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UFSCar
+24/07/2016 22:09:22;378;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Anhanguera 
+24/07/2016 22:10:33;311;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;3º ano;0;Empreendedor/Negócios;Não;311, 516;46;
+24/07/2016 22:10:46;79;N;M;Não USP;;;0;Designer;Não;;0;Universidade Presbiteriana Mackenzie
+24/07/2016 22:11:40;458;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Sim;443, 454, 458;51;
+24/07/2016 22:12:33;41;N;M;Não USP;;;0;Designer;Não;;0;UNICAMP
+24/07/2016 22:15:07;516;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;3º ano;0;Empreendedor/Negócios;Sim;311, 516;46;
+24/07/2016 22:15:48;208;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Atuariais;3º ano;1;Empreendedor/Negócios;Não;;0;
+24/07/2016 22:16:48;260;S;M;Não USP;;;2;Desenvolvedor;Não;;0;FIAP
+24/07/2016 22:17:00;247;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 22:24:00;515;N;M;Não USP;;;1;Desenvolvedor;Não;;0;Fatec
+24/07/2016 22:24:14;328;N;M;Escola Politécnica (Poli);Engenharia de Minas;4º ano;2;Desenvolvedor;Sim;27, 120, 328;38;
+24/07/2016 22:24:32;514;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;ESPM
+24/07/2016 22:25:22;72;S;F;Não USP;;;1;Designer;Não;;0;Universidade Anhembi Morumbi
+24/07/2016 22:26:21;443;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Sim;443, 454, 458;51;
+24/07/2016 22:27:02;387;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Sim;212, 284, 387, 447;28;
+24/07/2016 22:28:15;69;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UNICAMP
+24/07/2016 22:31:50;293;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;1º ano;0;Empreendedor/Negócios;Não;;0;
+24/07/2016 22:33:12;119;N;M;Não USP;;;2;Desenvolvedor;Não;;0;UTFPR
+24/07/2016 22:33:13;356;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;1;Desenvolvedor;Não;;0;
+24/07/2016 22:33:44;224;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;1º ano;1;Desenvolvedor;Sim;224, 539;30;
+24/07/2016 22:36:52;401;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Designer;Não;;0;
+24/07/2016 22:37:07;501;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 22:38:13;102;N;M;Escola Politécnica (Poli);Engenharia Elétrica;5º ano ou mais;0;Desenvolvedor;Sim;102, 277, 427;3;
+24/07/2016 22:39:45;183;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Cientista de Dados;Sim;171, 183, 230, 232;22;
+24/07/2016 22:40:14;380;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Bioinformática;Pós-graduação;0;Desenvolvedor;Não;;0;
+24/07/2016 22:42:27;298;N;M;Não USP;;;2;Empreendedor/Negócios;Sim;137, 289;12;FIAP
+24/07/2016 22:44:53;532;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;2;Desenvolvedor;Não;;0;
+24/07/2016 22:46:15;2;S;F;Não USP;;;0;Designer;Não;;0;Faculdade de Sergipe
+24/07/2016 22:46:16;390;N;M;Não USP;;;1;Desenvolvedor;Não;;0;Universidade Presbiteriana Mackenzie 
+24/07/2016 22:47:26;24;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;0;Desenvolvedor;Sim;24, 248, 257, 271, 327, 389;34;
+24/07/2016 22:49:51;374;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;BandTEC
+24/07/2016 22:50:40;427;N;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;0;Desenvolvedor;Sim;102, 277, 427;3;
+24/07/2016 22:54:34;481;N;M;Não USP;;;2;Desenvolvedor;Não;;0;Universidade Presbiteriana Mackenzie
+24/07/2016 22:58:18;64;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;Universidade Federal do ABC
+24/07/2016 22:58:41;307;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica;1º ano;0;Desenvolvedor;Não;307, 382;45;
+24/07/2016 22:59:28;403;N;F;Não USP;;;1;Empreendedor/Negócios;Não;;0;FIAP
+24/07/2016 22:59:30;389;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;0;Desenvolvedor;Sim;24, 248, 257, 271, 327, 389;34;
+24/07/2016 23:04:39;203;N;M;Instituto de Física (IF);Física;1º ano;0;Desenvolvedor;Sim;;0;
+24/07/2016 23:17:09;354;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;1;Designer;Não;;0;
+24/07/2016 23:19:31;113;N;M;Não USP;;;1;Empreendedor/Negócios;Não;;0;IBMEC
+24/07/2016 23:24:49;137;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Pós-graduação em Ciência da Computação;Pós-graduação;0;Desenvolvedor;Sim;137, 289;12;
+24/07/2016 23:25:51;414;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UFSCar
+24/07/2016 23:30:49;162;N;M;Escola Politécnica (Poli);Engenharia de Materiais;1º ano;2;Desenvolvedor;Não;;0;
+24/07/2016 23:32:52;534;N;M;Escola Politécnica (Poli);Engenharia Mecânica;4º ano;0;Empreendedor/Negócios;Sim;59, 400, 404, 534;57;
+24/07/2016 23:37:07;176;N;M;Escola Politécnica (Poli);Engenharia da Computação;3º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 23:40:52;132;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;5º ano ou mais;2;Empreendedor/Negócios;Não;;0;
+24/07/2016 23:42:05;287;N;M;Escola Politécnica (Poli);Engenharia Elétrica;2º ano;0;Desenvolvedor;Não;;0;
+24/07/2016 23:42:40;9;N;F;Não USP;;;0;Empreendedor/Negócios;Não;;0;UFRJ
+24/07/2016 23:43:42;366;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UniCEUB / NCTU
+24/07/2016 23:48:56;151;N;M;Escola Politécnica (Poli);Engenharia de Produção;5º ano ou mais;0;Empreendedor/Negócios;Sim;138, 151, 175;13;
+24/07/2016 23:57:43;487;N;M;Escola de Artes, Ciências e Humanidades (EACH);Modelagem de Sistemas Complexos;Pós-graduação;0;Desenvolvedor;Não;;0;
+24/07/2016 23:59:01;503;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4º ano;2;Desenvolvedor;Não;244, 251, 503;35;
+24/07/2016 23:59:52;174;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;Universidade Anhembi Morumbi
+24/08/2016 00:03:31;261;N;M;Não USP;;;2;Desenvolvedor;Não;;0;UFCG
+25/07/2016 00:00:37;518;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5º ano ou mais;2;Desenvolvedor;Sim;302, 518;44;
+25/07/2016 00:01:19;544;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;UBC
+25/07/2016 00:16:47;505;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Matematica Aplicada e Computacional;1º ano;0;Matemática;Sim;213, 381, 505, 524;29;
+25/07/2016 00:20:06;496;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Não;70, 433, 496;60;
+25/07/2016 00:20:19;233;N;M;Não USP;;;1;Designer;Não;;0;FIAP
+25/07/2016 00:30:02;323;N;M;Faculdade de Ciências Farmacêuticas (FCF);Fisiopatologia e Toxicologia;1º ano;0;Desenvolvedor;Não;;0;
+25/07/2016 00:36:54;28;N;M;Escola de Engenharia de São Carlos (EESC);Engenharia Aeronáutica ;5º ano ou mais;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 00:41:41;53;N;F;Não USP;;;1;Designer;Não;;0;Universidade Anhembi Morumbi
+25/07/2016 00:44:06;485;N;M;Não USP;;;1;Desenvolvedor;Não;;0;UNICAMP
+25/07/2016 00:45:03;106;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica;4º ano;2;Desenvolvedor;Sim;106, 435;5;
+25/07/2016 00:53:06;454;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Empreendedor/Negócios;Sim;443, 454, 458;51;
+25/07/2016 00:58:12;114;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+25/07/2016 01:27:45;88;N;M;Escola de Engenharia de São Carlos (EESC);Engenharia da Computação;1º ano;0;Desenvolvedor;Não;88, 205;62;
+25/07/2016 01:30:39;205;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Sim;88, 205;62;
+25/07/2016 01:35:14;431;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;FMU
+25/07/2016 01:43:47;435;N;M;Escola Politécnica (Poli);Pós-graduação em Engenharia Mecânica;Pós-graduação;0;Engenharia;Sim;106, 435;5;
+25/07/2016 02:01:29;5;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;5º ano ou mais;0;Negócios;Não;;0;
+25/07/2016 02:51:10;286;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Universidade Presbiteriana Mackenzie
+25/07/2016 03:02:19;223;N;M;Escola Politécnica (Poli);Engenharia Metalurgica;5º ano ou mais;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 03:54:36;187;N;M;Escola de Artes, Ciências e Humanidades (EACH);Gestão Ambiental;2º ano;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 05:11:40;437;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;1º ano;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 06:16:48;296;N;M;Escola Politécnica (Poli);Engenharia de Minas;5º ano ou mais;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 06:26:48;240;N;M;Não USP;;;1;Desenvolvedor;Não;;0;Fatec
+25/07/2016 07:36:26;348;N;F;Escola Politécnica (Poli);Pós-graduação em Engenharia Química/ Tecnologia de Software;Pós-graduação;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 08:13:11;476;N;M;Não USP;;;2;Designer;Não;;0;UCAM
+25/07/2016 08:15:40;525;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Faculdade Network
+25/07/2016 08:18:45;214;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;Fatec
+25/07/2016 08:27:01;54;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;3º ano;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 08:28:47;444;S;M;Não USP;;;1;Empreendedor/Negócios;Sim;444, 450;52;FIAP
+25/07/2016 08:37:10;34;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+25/07/2016 08:40:52;122;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Faculdade Network
+25/07/2016 08:41:07;486;N;F;Não USP;;;0;Desenvolvedor;Não;;0;Universidade Presbiteriana Mackenzie
+25/07/2016 09:10:43;4;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UNICAMP
+25/07/2016 09:18:05;29;N;M;Faculdade de Arquitetura e Urbanismo (FAU);Arquitetura e Urbanismo;5º ano ou mais;0;Designer;Sim;29, 141, 543, 548;42;
+25/07/2016 09:19:28;474;N;M;Não USP;;;1;Desenvolvedor;Sim;346, 370, 474;49;UNESP
+25/07/2016 09:20:42;256;N;M;Não USP;;;5;Desenvolvedor;Sim;255, 256, 357, 470;36;Universidade Presbiteriana Mackenzie
+25/07/2016 09:21:03;468;N;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;0;Desenvolvedor;Sim;14, 468;14;
+25/07/2016 09:23:20;14;N;F;Escola Politécnica (Poli);Engenharia Mecânica;5º ano ou mais;0;Desenvolvedor;Sim;14, 468;14;
+25/07/2016 09:23:48;262;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UEM - Universidade Estadual de Maringá
+25/07/2016 09:29:57;226;N;M;Não USP;;;2;Desenvolvedor;Não;;0;UNESP
+25/07/2016 09:39:21;419;N;M;Não USP;;;0;Designer/Negócios;Não;;0;Insper
+25/07/2016 09:39:46;215;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;0;Desenvolvedor;Sim;21, 215, 231, 393;25;
+25/07/2016 09:45:47;370;N;M;Não USP;;;2;Desenvolvedor;Sim;346, 370, 474;49;UNESP
+25/07/2016 09:59:22;368;N;F;Não USP;;;0;Designer;Não;;0;
+25/07/2016 10:23:53;436;N;M;Não USP;;;0;Desenvolvedor;Não;;0;PUC-Campinas
+25/07/2016 10:36:56;392;N;F;Não USP;;;0;Desenvolvedor;Não;;0;Universidade Presbiteriana Mackenzie
+25/07/2016 10:49:15;542;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Pós-graduação em Ciência da Computação;Pós-graduação;0;Pesquisador;Sim;152, 193, 542;17;
+25/07/2016 10:59:23;147;N;M;Não USP;;;5;Desenvolvedor;Não;;0;IFSP
+25/07/2016 11:29:58;466;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;FAPCOM
+25/07/2016 11:34:02;63;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5º ano ou mais;2;Desenvolvedor;Sim;;0;
+25/07/2016 11:49:24;279;N;M;Não USP;;;0;Cientista de Dados;Não;;0;UFC
+25/07/2016 12:09:54;524;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Sim;213, 381, 505, 524;29;
+25/07/2016 12:20:12;288;N;F;Não USP;;;0;Empreendedor/Negócios;Não;;0;Universidade Anhembi Morumbi
+25/07/2016 12:22:11;15;N;F;Não USP;;;5;Designer;Não;;0;Fatec
+25/07/2016 12:27:20;91;N;M;Escola Politécnica (Poli);Pós-graduação em Engenharia Elétrica;Pós-graduação;0;Desenvolvedor;Não;81, 91, 128, 297;61;
+25/07/2016 12:35:04;548;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Contábeis;3º ano;0;Empreendedor/Negócios;Sim;29, 141, 543, 548;42;
+25/07/2016 12:47:21;270;N;M;Instituto de Física (IF);Física;2º ano;0;Desenvolvedor;Não;;0;
+25/07/2016 13:00:00;263;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;
+25/07/2016 13:01:44;394;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Não;;0;
+25/07/2016 13:17:03;450;S;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Sim;444, 450;52;
+25/07/2016 13:31:37;550;N;M;Não USP;;;1;Desenvolvedor;Sim;239, 550;33;UFABC
+25/07/2016 13:33:05;343;S;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5º ano ou mais;0;Designer;Sim;26, 48, 343, 422;37;
+25/07/2016 13:37:31;312;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Atuariais;1º ano;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 13:49:47;199;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Não;;0;
+25/07/2016 14:12:23;87;N;F;Não USP;;;2;Empreendedor/Negócios;Não;;0;Fatec
+25/07/2016 14:16:21;360;N;M;Instituto de Matemática e Estatística (IME);Matemática Aplicada;3º ano;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 14:18:34;8;N;M;Não USP;;;0;Desenvolvedor;Não;;0;
+25/07/2016 14:30:41;285;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;2º ano;2;Empreendedor/Negócios;Sim;;0;
+25/07/2016 14:32:56;244;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4º ano;5;Desenvolvedor;Sim;244, 251, 503;35;
+25/07/2016 14:34:50;523;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;3º ano;0;Empreendedor/Negócios;Sim;210, 491, 523;26;
+25/07/2016 14:46:06;388;N;M;Não USP;;;1;Desenvolvedor;Não;;0;Universidade de Brasilia
+25/07/2016 14:56:55;491;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;3º ano;0;Empreendedor/Negócios;Sim;210, 491, 523;26;
+25/07/2016 15:12:45;334;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;0;Desenvolvedor;Não;;0;
+25/07/2016 15:14:43;210;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;3º ano;0;Empreendedor/Negócios;Não;210, 491, 523;26;
+25/07/2016 15:19:17;36;N;F;Escola de Comunicações e Artes (ECA);Publicidade e Propaganda;4º ano;0;Comunicação/Publicidade;Sim;36, 185, 282, 484;50;
+25/07/2016 15:22:21;22;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;Unicarioca
+25/07/2016 15:30:36;185;N;M;Não USP;;;0;Desenvolvedor;Sim;36, 185, 282, 484;50;Fatec
+25/07/2016 15:35:31;74;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;2º ano;0;Marketing;Sim;;0;
+25/07/2016 15:36:01;188;N;M;Não USP;;;1;Desenvolvedor;Não;;0;Unicarioca
+25/07/2016 15:41:27;105;N;M;Escola Politécnica (Poli);Engenharia de Produção;3º ano;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 15:43:26;411;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;1º ano;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 15:52:27;373;N;M;Escola Politécnica (Poli);Engenharia Elétrica;5º ano ou mais;0;Empreendedor/Negócios;Não;110, 373, 467;6;
+25/07/2016 16:02:12;467;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Atuariais;5º ano ou mais;0;Negócios;Não;110, 373, 467;6;
+25/07/2016 17:22:43;118;N;M;Faculdade de Ciências Farmacêuticas (FCF);Pós-graduação em Farmácia e Bioinformática;Pós-graduação;0;Desenvolvedor;Não;;0;
+25/07/2016 17:46:10;255;N;M;Escola de Artes, Ciências e Humanidades (EACH);Pós-graduação em Sistemas de Informação;Pós-graduação;0;Desenvolvedor;Sim;255, 256, 357, 470;36;
+25/07/2016 17:47:30;357;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5º ano ou mais;1;Desenvolvedor;Sim;255, 256, 357, 470;36;
+25/07/2016 18:36:07;398;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;2º ano;0;Empreendedor/Negócios;Não;289, 398;41;
+25/07/2016 18:57:49;211;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;0;Desenvolvedor;Sim;211, 521;27;
+25/07/2016 18:58:44;521;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;0;Desenvolvedor;Sim;211, 521;27;
+25/07/2016 19:05:33;280;N;M;Não USP;;;0;Designer;Não;;0;Anhanguera
+25/07/2016 19:25:43;395;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Universidade São Judas Tadeu
+25/07/2016 19:41:11;109;N;M;Não USP;;;1;Desenvolvedor;Não;;0;Unip
+25/07/2016 19:49:37;225;N;M;Não USP;;;0;Negócios;Não;;0;UNIFIEO
+25/07/2016 20:23:28;50;N;M;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Desenvolvedor;Sim;50, 252;55;
+25/07/2016 20:25:13;252;N;F;Escola Politécnica (Poli);Engenharia Mecatrônica;2º ano;0;Desenvolvedor;Sim;50, 252;55;
+25/07/2016 20:26:52;230;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Sim;171, 183, 230, 232;22;
+25/07/2016 20:50:50;471;N;M;Escola Politécnica (Poli);Engenharia de Produção;3º ano;0;Empreendedor/Negócios;Não;273, 318, 471;39;
+25/07/2016 21:01:22;500;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;5º ano ou mais;0;Marketing;Não;;0;
+25/07/2016 21:04:07;347;N;M;Não USP;;;0;Designer;Não;;0;UFSCar
+25/07/2016 21:12:41;470;N;M;Escola de Artes, Ciências e Humanidades (EACH);Pós-graduação em Sistemas de Informação;Pós-graduação;0;Desenvolvedor;Sim;255, 256, 357, 470;36;
+25/07/2016 21:48:13;129;N;M;Não USP;;;0;Engenharia;Não;;0;
+25/07/2016 22:11:41;216;N;M;Escola Politécnica (Poli);Engenharia de Minas;1º ano;0;Desenvolvedor;Sim;182, 216, 463;24;
+25/07/2016 22:15:55;182;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;1;Desenvolvedor;Sim;182, 216, 463;24;
+25/07/2016 22:28:49;464;N;M;Escola Politécnica (Poli);Engenharia da Computação;3º ano;0;Desenvolvedor;Não;;0;
+25/07/2016 23:16:11;142;N;F;Não USP;;;0;Desenvolvedor;Não;;0;Estácio de Sá
+25/07/2016 23:26:23;321;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;3º ano;0;Empreendedor/Negócios;Não;;0;
+25/07/2016 23:51:36;273;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Não;273, 318, 471;39;
+26/07/2016 00:04:13;318;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;5º ano ou mais;1;Empreendedor/Negócios;Sim;273, 318, 471;39;
+26/07/2016 00:11:36;300;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5º ano ou mais;0;Desenvolvedor;Sim;;0;
+26/07/2016 00:12:28;359;N;M;Não USP;;;2;Desenvolvedor;Não;;0;UFABC
+26/07/2016 01:12:50;446;N;F;Faculdade de Arquitetura e Urbanismo (FAU);Bacharelado em Design;4º ano;0;Designer;Não;;0;
+26/07/2016 11:40:43;42;N;?;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4º ano;0;Empreendedor/Negócios;Não;;0;
+26/07/2016 12:18:19;110;N;F;Faculdade de Arquitetura e Urbanismo (FAU);Arquitetura e Urbanismo;5º ano ou mais;0;Designer;Sim;110, 373, 467;6;
+26/07/2016 12:49:52;239;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;3º ano;0;Desenvolvedor;Sim;239, 550;33;
+26/07/2016 12:57:41;381;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Sim;213, 381, 505, 524;29;
+26/07/2016 13:16:17;81;N;M;Escola Politécnica (Poli);Engenharia da Computação;1º ano;0;Desenvolvedor;Não;81, 91, 128, 297;61;
+26/07/2016 13:56:33;302;N;M;Não USP;;;0;Desenvolvedor;Sim;302, 518;44;FEI
+26/07/2016 14:00:35;128;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Sim;81, 91, 128, 297;61;
+26/07/2016 14:45:38;441;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Empreendedor/Negócios;Não;;0;
+26/07/2016 15:39:27;367;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Empreendedor/Negócios;Não;;0;
+26/07/2016 16:16:32;327;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;0;Desenvolvedor;Sim;24, 248, 257, 271, 327, 389;34;
+26/07/2016 17:11:22;337;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UFABC
+26/07/2016 17:20:35;268;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Empreendedor/Negócios;Não;;0;
+26/07/2016 17:35:47;290;N;M;Instituto de Física (IF);Física;4º ano;0;Empreendedor/Negócios;Sim;235, 290, 484;32;
+26/07/2016 18:03:51;345;N;M;Não USP;;;1;Desenvolvedor;Não;;0;UNESP
+26/07/2016 18:42:19;45;N;F;Não USP;;;1;Desenvolvedor;Não;;0;UNICAMP
+26/07/2016 18:46:21;235;N;M;Instituto de Física (IF);Física;4º ano;0;Desenvolvedor;Sim;235, 290, 484;32;
+26/07/2016 18:51:52;358;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;Centro Universitario Senac
+26/07/2016 19:19:16;178;N;M;Não USP;;;2;Desenvolvedor;Não;;0;UNICAMP
+26/07/2016 19:36:58;488;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Centro Universitario Senac
+26/07/2016 19:56:09;319;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Sim;295, 310, 319, 379;43;
+26/07/2016 20:01:36;379;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Sim;295, 310, 319, 379;43;
+26/07/2016 20:12:26;519;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;1º ano;0;Desenvolvedor;Sim;51, 241, 519;56;
+26/07/2016 20:23:27;80;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5º ano ou mais;0;Desenvolvedor;Não;;0;
+26/07/2016 21:25:29;202;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing ;1º ano;0;Empreendedor/Negócios;Sim;202, 351, 353, 480;24;
+26/07/2016 21:26:49;295;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Sim;295, 310, 319, 379;43;
+26/07/2016 21:43:47;153;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;0;Desenvolvedor;Não;;0;
+26/07/2016 22:21:53;175;N;M;Escola Politécnica (Poli);Engenharia de Produção;3º ano;0;Empreendedor/Negócios;Não;138, 151, 175;13;
+26/07/2016 22:27:41;191;N;M;Não USP;;;1;Desenvolvedor;Não;;0;UNIFESP
+26/07/2016 22:34:42;310;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;4º ano;0;Desenvolvedor;Sim;295, 310, 319, 379;43;
+26/07/2016 23:26:33;365;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;0;Desenvolvedor;Não;;0;
+26/07/2016 23:41:44;457;N;F;Não USP;;;0;Empreendedor/Negócios;Não;;0;UFSCar 
+26/07/2016 23:42:05;362;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UFABC
+26/07/2016 23:50:16;375;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Empreendedor/Negócios;Não;;0;
+26/08/2016 13:50:39;33;N;M;Não USP;;;0;Designer;Não;;0;UAM
+26/08/2016 14:30:31;136;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;3º ano;0;Desenvolvedor;Não;;0;
+27/07/2016 09:10:46;67;N;M;Escola Politécnica (Poli);Pós-graduação em Engenharia da Computação;Pós-graduação;0;Desenvolvedor;Não;67, 407;59;
+27/07/2016 09:22:48;150;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Empreendedor/Negócios;Sim;17, 150, 179, 189;20;
+27/07/2016 09:26:40;17;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Empreendedor/Negócios;Sim;17, 150, 179, 189;20;
+27/07/2016 09:27:40;179;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Desenvolvedor;Sim;17, 150, 179, 189;20;
+27/07/2016 10:36:24;11;N;M;Não USP;;;2;Nenhuma;Não;;0;UNICAMP
+27/07/2016 11:07:50;445;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;Colégio Santa Cruz
+27/07/2016 12:03:40;189;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Empreendedor/Negócios;Sim;17, 150, 179, 189;20;
+27/07/2016 12:05:38;156;S;M;Escola Politécnica (Poli);Engenharia da Computação;5º ano ou mais;0;Desenvolvedor;Não;1, 156, 269, 459;1;
+27/07/2016 12:06:46;543;N;M;Não USP;;;0;Empreendedor/Negócios;Sim;29, 141, 543, 548;42;FGV
+27/07/2016 12:57:39;547;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;4º ano;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 13:36:56;127;N;M;Não USP;;;1;Desenvolvedor;Não;;0;IFSP
+27/07/2016 13:47:06;522;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Contábeis;2º ano;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 14:36:45;407;N;F;Faculdade de Economia, Administração e Contabilidade (FEA);Doutorado em Administração ;1º ano;0;Empreendedor/Negócios;Sim;67, 407;59;
+27/07/2016 14:39:17;537;N;F;Escola Politécnica (Poli);Engenharia Mecânica;1º ano;0;Empreendedor/Negócios;Sim;198, 308, 338,  537;23;
+27/07/2016 15:50:26;351;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;1º ano;0;Empreendedor/Negócios;Sim;202, 351, 353, 480;24;
+27/07/2016 15:52:46;339;S;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;2º ano;2;Designer;Sim;227, 303, 339, 402;31;
+27/07/2016 16:26:04;38;N;M;Instituto de Matemática e Estatística (IME);Bacharelado em Ciência da Computação;4º ano;2;Desenvolvedor;Não;;0;
+27/07/2016 16:28:56;163;N;M;Faculdade de Arquitetura e Urbanismo (FAU);Bacharelado em Design;3º ano;0;Designer;Sim;145, 163,  528;15;
+27/07/2016 16:29:14;73;N;F;Não USP;;;0;Empreendedor/Negócios;Não;;0;FGV
+27/07/2016 16:31:36;385;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UFSCar
+27/07/2016 16:32:56;326;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Contábeis;2º ano;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 17:08:33;338;N;M;Faculdade de Direito (FD);Direito;1º ano;0;Empreendedor/Negócios;Sim;198, 308, 338,  537;23;
+27/07/2016 18:23:55;145;N;F;Faculdade de Arquitetura e Urbanismo (FAU);Bacharelado em Design;3º ano;0;Designer;Sim;145, 163,  528;15;
+27/07/2016 19:21:17;308;N;M;Escola Politécnica (Poli);Engenharia Mecatrônica;2º ano;0;Empreendedor/Negócios;Sim;198, 308, 338,  537;23;
+27/07/2016 19:23:47;399;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;5º ano ou mais;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 20:15:53;528;N;M;Faculdade de Arquitetura e Urbanismo (FAU);Bacharelado em Design;5º ano ou mais;0;Designer;Sim;145, 163,  528;15;
+27/07/2016 21:18:02;455;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Economia;2º ano;1;Desenvolvedor/Negócios;Sim;448, 455, 478, 512;53;
+27/07/2016 21:24:20;478;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Atuariais;5º ano ou mais;0;Empreendedor/Negócios;Sim;448, 455, 478, 512;53;
+27/07/2016 21:40:43;448;N;M;Não USP;;;2;Desenvolvedor;Sim;448, 455, 478, 512;53;UNICAMP
+27/07/2016 21:41:03;219;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;2º ano;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 21:41:52;530;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Universidade Municipal de São Caetano do Sul
+27/07/2016 21:43:21;422;N;M;Escola de Artes, Ciências e Humanidades (EACH);Pós-graduação em Sistemas de Informação;Pós-graduação;0;Desenvolvedor;Sim;26, 48, 343, 422;37;
+27/07/2016 21:44:03;66;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Universidade Presbiteriana Mackenzie
+27/07/2016 21:45:37;200;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UMESP - Universidade Metodista de São Paulo
+27/07/2016 21:46:31;510;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;5º ano ou mais;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 21:46:42;494;N;F;Instituto de Matemática e Estatística (IME);Matematica Aplicada e Computacional;3º ano;0;Desenvolvedor;Sim;166, 494;19;
+27/07/2016 21:48:31;509;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;5º ano ou mais;0;Empreendedor/Negócios;Sim;;0;
+27/07/2016 21:48:55;76;N;F;Não USP;;;0;Desenvolvedor;Não;;0;IFSP
+27/07/2016 21:49:10;278;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;1º ano;0;Negócios;Não;;0;
+27/07/2016 21:51:03;409;N;M;Não USP;;;0;Desenvolvedor;Não;;0;IFPE
+27/07/2016 21:51:39;55;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UMESP - Universidade Metodista de São Paulo
+27/07/2016 21:52:51;173;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UFABC
+27/07/2016 21:53:32;377;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Pós-graduação em Administração de Organizações;Pós-graduação;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 21:53:39;442;N;M;Não USP;;;0;Designer;Não;;0;UNIFIEO
+27/07/2016 21:55:41;228;N;M;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Desenvolvedor;Não;;0;
+27/07/2016 21:55:55;166;N;M;Instituto de Matemática e Estatística (IME);Pós-graduação em Ciência da Computação;Pós-graduação;0;Desenvolvedor;Sim;166, 494;19;
+27/07/2016 21:57:19;172;N;M;Escola Politécnica (Poli);Big Data Inteligência na Gestão dos Dados;1º ano;0;Empreendedor/Negócios;Sim;100, 172, 506;2;
+27/07/2016 21:57:51;90;N;M;Escola Politécnica (Poli);Engenharia Elétrica;1º ano;0;Desenvolvedor;Não;;0;
+27/07/2016 21:58:32;480;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;1º ano;0;Marketing;Sim;202, 351, 353, 480;24;
+27/07/2016 22:00:21;100;N;F;Escola Politécnica (Poli);Big Data Inteligência na Gestão dos Dados;Pós-graduação;0;Empreendedor/Negócios;Sim;100, 172, 506;2;
+27/07/2016 22:00:29;60;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Fatec
+27/07/2016 22:03:41;177;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UMESP - Universidade Metodista de São Paulo
+27/07/2016 22:04:59;143;N;M;Não USP;;;0;Desenvolvedor;Não;;0;ETESP
+27/07/2016 22:07:51;265;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UNIFESP
+27/07/2016 22:08:53;429;N;M;Não USP;;;0;Designer;Não;;0;Fatec
+27/07/2016 22:10:54;97;N;M;Não USP;;;0;Negócios;Não;;0;FMU
+27/07/2016 22:11:33;297;N;M;Escola Politécnica (Poli);Doutorado em Engenharia da Computação;3º ano;0;Desenvolvedor;Sim;81, 91, 128, 297;61;
+27/07/2016 22:11:40;508;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;UFABC
+27/07/2016 22:11:41;376;N;M;Escola de Engenharia de São Carlos (EESC);Engenharia da Computação;2º ano;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 22:13:51;452;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Fatec
+27/07/2016 22:20:35;531;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UMESP - Universidade Metodista de São Paulo
+27/07/2016 22:23:00;107;N;M;Não USP;;;0;Desenvolvedor;Não;;0;
+27/07/2016 22:23:24;78;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Sistemas de Informação;1º ano;1;Designer;Não;;0;
+27/07/2016 22:24:41;410;N;M;Escola Politécnica (Poli);Engenharia Elétrica;3º ano;0;Desenvolvedor/Designer;Não;;0;
+27/07/2016 22:25:58;506;N;M;Escola Politécnica (Poli);Big Data Inteligência na Gestão dos Dados;1º ano;2;Empreendedor/Negócios;Sim;100, 172, 506;2;
+27/07/2016 22:26:17;116;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UNESP
+27/07/2016 22:28:24;325;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Contabilidade;2º ano;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 22:28:31;155;N;M;Não USP;;;1;Desenvolvedor;Não;;0;UNICAMP
+27/07/2016 22:29:15;546;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 22:29:35;190;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;UFU
+27/07/2016 22:29:50;180;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UNIFESP
+27/07/2016 22:34:21;545;N;M;Não USP;;;0;Desenvolvedor;Não;;0;FIAP
+27/07/2016 22:35:11;533;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;FGV
+27/07/2016 22:39:14;31;N;M;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5º ano ou mais;0;Desenvolvedor;Sim;;0;
+27/07/2016 22:45:34;130;N;M;Escola Politécnica (Poli);Engenharia da Computação;3º ano;1;Desenvolvedor;Sim;130, 301;9;
+27/07/2016 22:53:28;253;N;M;Não USP;;;0;Desenvolvedor;Não;;0;Faculdade de Engenharia de Sorocaba
+27/07/2016 22:53:48;549;N;M;Escola Politécnica (Poli);Engenharia Elétrica;3º ano;1;Desenvolvedor;Não;;0;
+27/07/2016 23:01:03;201;N;M;Não USP;;;0;Desenvolvedor/Designer;Não;;0;Universidade Anhembi Morumbi
+27/07/2016 23:02:29;186;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Ciências Contábeis;5º ano ou mais;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 23:03:01;492;N;F;Não USP;;;0;Marketing;Não;;0;Universidade Anhembi Morumbi
+27/07/2016 23:04:36;346;N;F;Instituto de Ciências Matemáticas e de Computação (ICMC);Bacharelado em Ciência da Computação;5º ano ou mais;2;Desenvolvedor;Sim;346, 370, 474;49;
+27/07/2016 23:06:25;440;N;M;Escola Politécnica (Poli);Engenharia Elétrica;4º ano;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 23:11:26;83;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;2º ano;0;Empreendedor/Negócios;Sim;13, 83, 349;8;
+27/07/2016 23:13:09;115;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UFABC
+27/07/2016 23:14:33;13;N;M;Não USP;;;0;Empreendedor/Negócios;Sim;13, 83, 349;8;Insper
+27/07/2016 23:17:20;349;N;F;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;2º ano;0;Empreendedor/Negócios;Sim;13, 83, 349;8;
+27/07/2016 23:19:30;146;N;F;Não USP;;;0;Desenvolvedor;Não;;0;UNIFIEO
+27/07/2016 23:23:26;289;N;M;Escola de Artes, Ciências e Humanidades (EACH);Bacharelado em Marketing;2º ano;0;Empreendedor/Negócios;Sim;289, 398;41;
+27/07/2016 23:24:33;472;N;M;Escola Politécnica (Poli);Engenharia Elétrica;2º ano;0;Desenvolvedor;Não;;0;
+27/07/2016 23:24:45;413;N;M;Escola Politécnica (Poli);Engenharia Química;5º ano ou mais;0;Desenvolvedor;Não;;0;
+27/07/2016 23:26:27;20;N;M;Não USP;;;0;Gestão de Projetos;Não;;0;PUC-Campinas
+27/07/2016 23:27:45;75;N;F;Não USP;;;0;Desenvolvedor;Não;;0;Fatec
+27/07/2016 23:28:31;222;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;5º ano ou mais;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 23:32:32;490;N;M;Não USP;;;0;Empreendedor/Negócios;Não;;0;UAM
+27/07/2016 23:43:56;196;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;2º ano;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 23:46:02;58;N;M;Não USP;;;0;Desenvolvedor;Não;;0;UFF
+27/07/2016 23:47:03;274;N;M;Escola Politécnica (Poli);Engenharia Química;1º ano;0;Empreendedor/Negócios;Não;;0;
+27/07/2016 23:50:08;512;N;M;Faculdade de Economia, Administração e Contabilidade (FEA);Bacharelado em Administração;5º ano ou mais;0;Empreendedor/Negócios;Sim;448, 455, 478, 512;53;
+27/07/2016 23:56:08;181;N;M;Não USP;;;2;Empreendedor/Negócios;Não;;0;Positivo
